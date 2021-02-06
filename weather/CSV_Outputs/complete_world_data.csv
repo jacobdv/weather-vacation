@@ -1,1402 +1,582 @@
 ,City,Country,Latitude,Longitude,Max Temp,Humidity,Cloudiness,Wind Speed,Date
-0,Belushya Guba,RU,,,,,,,
-1,Toliary,MG,,,,,,,
-2,Ellensburg,US,47.0,-120.55,46,74,93,5.01,1612573175
-3,Blagoveshchenka,RU,52.83,79.87,29.43,99,100,6.46,1612573185
-4,Nikolskoye,RU,59.7,30.79,12,78,75,11.18,1612572709
-5,Saskylakh,RU,71.92,114.08,-31.31,83,78,5.37,1612572761
-6,Rocha,UY,-34.48,-54.33,58.53,87,0,5.55,1612572783
-7,Vila Velha,BR,-20.33,-40.29,82.4,74,75,9.22,1612573185
-8,Bassila,BJ,9.01,1.67,82.4,28,100,3.65,1612573186
-9,Busselton,AU,-33.65,115.33,64,73,100,5.01,1612573027
-10,Tuktoyaktuk,CA,69.45,-133.04,-31,75,75,10.36,1612572764
-11,Sawakin,SD,19.11,37.33,70.68,53,0,7.47,1612573186
-12,Kamaishi,JP,39.27,141.88,33.8,93,75,6.91,1612573182
-13,New Norfolk,AU,-42.78,147.06,75.99,47,1,7,1612572669
-14,Khatanga,RU,71.97,102.5,-34.22,78,4,7.09,1612573095
-15,Port Alfred,ZA,-33.59,26.89,69.01,93,100,14.92,1612573033
-16,Bayan,KW,46.08,127.4,-0.8,90,100,4.74,1612573099
-17,Butaritari,KI,3.07,172.79,81.39,80,93,17.76,1612572897
-18,Yellowknife,CA,62.46,-114.35,-31,68,90,10.36,1612572831
-19,Bredasdorp,ZA,-34.53,20.04,60.8,94,0,1.14,1612573072
-20,Vaini,TO,-21.2,-175.2,84.2,84,75,4.61,1612573053
-21,Souillac,MU,-20.52,57.52,77,88,75,6.91,1612573040
-22,Rikitea,PF,-23.12,-134.97,78.76,70,11,12.75,1612573013
-23,Barra Do Garcas,BR,-15.89,-52.26,76.42,84,100,2.68,1612573189
-24,Amderma,RU,,,,,,,
-25,East London,ZA,-33.02,27.91,73.63,89,97,10.13,1612572808
-26,Sumbe,AO,-11.21,13.84,75.79,86,100,7.92,1612573190
-27,Saint-Philippe,RE,-21.36,55.77,78.8,65,0,6.91,1612572889
-28,Saint George,BM,37.1,-113.58,57.2,23,1,17.27,1612572744
-29,Palmer,US,42.16,-72.33,32,93,32,6.13,1612572599
-30,Moron,MN,-34.65,-58.62,73,73,0,1.99,1612572742
-31,Wahran,DZ,,,,,,,
-32,Panzhihua,CN,26.59,101.71,49.89,48,37,0.94,1612573191
-33,Albany,AU,42.6,-73.97,37,69,36,4.61,1612573027
-34,Vostok,RU,46.49,135.88,6.31,93,100,3.42,1612573003
-35,Pangnirtung,CA,66.15,-65.71,23.16,93,100,4.92,1612572932
-36,Mount Gambier,AU,-37.83,140.77,64.4,68,40,13.8,1612572958
-37,Azuaga,ES,38.27,-5.68,46.99,93,100,7,1612573192
-38,Salalah,OM,17.02,54.09,71.6,64,20,5.75,1612572994
-39,Cherskiy,RU,68.75,161.3,-14.53,77,30,0.98,1612572933
-40,Hobart,AU,-42.88,147.33,78.01,53,75,13.8,1612572817
-41,Gizo,SB,-8.1,156.84,84.4,72,100,9.91,1612572810
-42,Hithadhoo,MV,-0.6,73.08,81.79,80,100,15.14,1612572729
-43,Abha,SA,18.22,42.51,53.6,50,0,10.36,1612572907
-44,Port Elizabeth,ZA,-33.92,25.57,71.6,88,90,6.91,1612573025
-45,Piacabucu,BR,-10.41,-36.43,78.98,80,0,15.35,1612573194
-46,Lata,SB,40.16,-8.33,51.01,93,100,1.01,1612573072
-47,Rio Grande,BR,-32.03,-52.1,63,90,21,15.12,1612572957
-48,Pochutla,MX,15.74,-96.47,78.8,73,75,11.5,1612573177
-49,Acarau,BR,-2.89,-40.12,77.94,83,5,12.68,1612572802
-50,Kapaa,US,22.08,-159.32,71.6,56,20,6.91,1612573036
-51,Nome,US,64.5,-165.41,15.8,79,90,25.32,1612572721
-52,College,US,64.86,-147.8,-7.6,71,75,2.95,1612573082
-53,Ylivieska,FI,64.08,24.55,8.42,96,59,5.61,1612573196
-54,Bluff,NZ,-46.6,168.33,60.35,71,33,2.04,1612572904
-55,Alta Floresta,BR,-9.88,-56.09,73.17,97,100,3.22,1612572944
-56,Namibe,AO,,,,,,,
-57,Jamestown,SH,,,,,,,
-58,Labuhan,ID,,,,,,,
-59,Kodiak,US,,,,,,,
-60,Pabna,BD,,,,,,,
-61,Praia,CV,,,,,,,
-62,Arraial Do Cabo,BR,,,,,,,
-63,Hermanus,ZA,,,,,,,
-64,Cape Town,ZA,,,,,,,
-65,Hilo,US,,,,,,,
-66,Atuona,PF,,,,,,,
-67,Chuy,UY,,,,,,,
-68,Grindavik,IS,,,,,,,
-69,Tambul,SD,,,,,,,
-70,Aklavik,CA,,,,,,,
-71,Ancud,CL,,,,,,,
-72,Qaanaaq,GL,,,,,,,
-73,Huambo,AO,,,,,,,
-74,Ilulissat,GL,,,,,,,
-75,Yala,KE,,,,,,,
-76,Bubaque,GW,,,,,,,
-77,Camabatela,AO,,,,,,,
-78,Mar Del Plata,AR,,,,,,,
-79,Toamasina,MG,,,,,,,
-80,Bolungarvik,IS,,,,,,,
-81,Beringovskiy,RU,,,,,,,
-82,Tura,RU,,,,,,,
-83,Yerbogachen,RU,,,,,,,
-84,Itarema,BR,,,,,,,
-85,Khed Brahma,IN,,,,,,,
-86,Narsaq,GL,,,,,,,
-87,Ushuaia,AR,,,,,,,
-88,Noumea,NC,,,,,,,
-89,Chokurdakh,RU,,,,,,,
-90,Clyde River,CA,,,,,,,
-91,Tiksi,RU,,,,,,,
-92,Maputo,MZ,,,,,,,
-93,Upernavik,GL,,,,,,,
-94,Punta Arenas,CL,,,,,,,
-95,San Policarpo,PH,,,,,,,
-96,Cidreira,BR,,,,,,,
-97,Ribeira Grande,PT,,,,,,,
-98,Avarua,CK,,,,,,,
-99,Abu Samrah,QA,,,,,,,
-100,Valparaiso,CL,,,,,,,
-101,Maryville,US,,,,,,,
-102,Wamba,CD,,,,,,,
-103,Vanimo,PG,,,,,,,
-104,Barrow,US,,,,,,,
-105,Mataura,PF,,,,,,,
-106,Castro,CL,,,,,,,
-107,Rundu,NA,,,,,,,
-108,Torbay,CA,,,,,,,
-109,Buon Me Thuot,VN,,,,,,,
-110,Kaitangata,NZ,,,,,,,
-111,Taolanaro,MG,,,,,,,
-112,Plainview,US,,,,,,,
-113,Arroyo,US,,,,,,,
-114,Mahur,IN,,,,,,,
-115,Pushkino,AZ,,,,,,,
-116,Khandyga,RU,,,,,,,
-117,Gorom-Gorom,BF,,,,,,,
-118,Springbok,ZA,,,,,,,
-119,Chapeco,BR,,,,,,,
-120,Muros,ES,,,,,,,
-121,Pevek,RU,,,,,,,
-122,Ipora,BR,,,,,,,
-123,Birin,DZ,,,,,,,
-124,Illoqqortoormiut,GL,,,,,,,
-125,Millinocket,US,,,,,,,
-126,Daru,PG,,,,,,,
-127,Ambalavao,MG,,,,,,,
-128,Moose Factory,CA,,,,,,,
-129,Klaksvik,FO,,,,,,,
-130,Otane,NZ,,,,,,,
-131,Chalinze,TZ,,,,,,,
-132,Dikson,RU,,,,,,,
-133,Yerofey Pavlovich,RU,,,,,,,
-134,Kavieng,PG,,,,,,,
-135,Tanjong Karang,MY,,,,,,,
-136,Hammerfest,NO,,,,,,,
-137,Taburi,PH,,,,,,,
-138,Geraldton,AU,,,,,,,
-139,Kyren,RU,,,,,,,
-140,Muskogee,US,,,,,,,
-141,Groningen,SR,,,,,,,
-142,Doha,KW,,,,,,,
-143,Lebu,CL,,,,,,,
-144,Alofi,NU,,,,,,,
-145,Orchard Homes,US,,,,,,,
-146,Vanavara,RU,,,,,,,
-147,Carnarvon,AU,,,,,,,
-148,Bethel,US,,,,,,,
-149,Talcahuano,CL,,,,,,,
-150,Namie,JP,,,,,,,
-151,Te Anau,NZ,,,,,,,
-152,Fortuna,US,,,,,,,
-153,Aracruz,BR,,,,,,,
-154,Hambantota,LK,,,,,,,
-155,Tomatlan,MX,,,,,,,
-156,Saldanha,ZA,,,,,,,
-157,Touros,BR,,,,,,,
-158,Vredendal,ZA,,,,,,,
-159,Puerto Ayora,EC,,,,,,,
-160,Victoria,SC,,,,,,,
-161,Tsihombe,MG,,,,,,,
-162,Porto Walter,BR,,,,,,,
-163,Kuche,CN,,,,,,,
-164,Achinsk,RU,,,,,,,
-165,Sinnamary,GF,,,,,,,
-166,San Quintin,MX,,,,,,,
-167,Murchison,NZ,,,,,,,
-168,Talnakh,RU,,,,,,,
-169,Thompson,CA,,,,,,,
-170,Hetauda,NP,,,,,,,
-171,Airai,PW,,,,,,,
-172,Coahuayana,MX,,,,,,,
-173,Berlevag,NO,,,,,,,
-174,Pringsewu,ID,,,,,,,
-175,Khvoynaya,RU,,,,,,,
-176,Esmeraldas,EC,,,,,,,
-177,Abapo,BO,,,,,,,
-178,Caruray,PH,,,,,,,
-179,Fengkou,CN,,,,,,,
-180,Bambous Virieux,MU,,,,,,,
-181,Umea,SE,,,,,,,
-182,Brigantine,US,,,,,,,
-183,Port Hardy,CA,,,,,,,
-184,Iqaluit,CA,,,,,,,
-185,Bengkulu,ID,,,,,,,
-186,Longyearbyen,SJ,,,,,,,
-187,Oranjestad,AW,,,,,,,
-188,Bury Saint Edmunds,GB,,,,,,,
-189,Edd,ER,,,,,,,
-190,Sinjar,IQ,,,,,,,
-191,Jeremie,HT,,,,,,,
-192,Shanghai,CN,,,,,,,
-193,Esperance,AU,,,,,,,
-194,Mandali,IQ,,,,,,,
-195,Ascension,BO,,,,,,,
-196,Yakeshi,CN,,,,,,,
-197,Monrovia,LR,,,,,,,
-198,San Carlos De Bariloche,AR,,,,,,,
-199,Faya,TD,,,,,,,
-200,Kalianget,ID,,,,,,,
-201,Masterton,NZ,,,,,,,
-202,Kavaratti,IN,,,,,,,
-203,Haines Junction,CA,,,,,,,
-204,Najran,SA,,,,,,,
-205,Caravelas,BR,,,,,,,
-206,Batagay-Alyta,RU,,,,,,,
-207,Paamiut,GL,,,,,,,
-208,Khasan,RU,,,,,,,
-209,Itoman,JP,,,,,,,
-210,Warqla,DZ,,,,,,,
-211,Tucupita,VE,,,,,,,
-212,Seekirchen,AT,,,,,,,
-213,Faanui,PF,,,,,,,
-214,Bur Gabo,SO,,,,,,,
-215,Deputatskiy,RU,,,,,,,
-216,Puerto Escondido,MX,,,,,,,
-217,Constitucion,CL,,,,,,,
-218,San Cristobal,EC,,,,,,,
-219,Attawapiskat,CA,,,,,,,
-220,Grand Gaube,MU,,,,,,,
-221,Ornskoldsvik,SE,,,,,,,
-222,Pokhara,NP,,,,,,,
-223,Batamshinskiy,KZ,,,,,,,
-224,Mutsamudu,KM,,,,,,,
-225,Plouzane,FR,,,,,,,
-226,Karasjok,NO,,,,,,,
-227,Verkhnevilyuysk,RU,,,,,,,
-228,Mendi,PG,,,,,,,
-229,Waipawa,NZ,,,,,,,
-230,San Ramon De La Nueva Oran,AR,,,,,,,
-231,Serenje,ZM,,,,,,,
-232,Baoning,CN,,,,,,,
-233,Lalomanu,WS,,,,,,,
-234,Hirara,JP,,,,,,,
-235,Mange,SL,,,,,,,
-236,Barentsburg,SJ,,,,,,,
-237,Sept-Iles,CA,,,,,,,
-238,Bandarbeyla,SO,,,,,,,
-239,Yatou,CN,,,,,,,
-240,Guerrero Negro,MX,,,,,,,
-241,Cabo San Lucas,MX,,,,,,,
-242,Sao Joao Da Barra,BR,,,,,,,
-243,Georgetown,SH,,,,,,,
-244,Mys Shmidta,RU,,,,,,,
-245,Acapulco,MX,,,,,,,
-246,Naze,JP,,,,,,,
-247,Asau,TV,,,,,,,
-248,Sorvag,FO,,,,,,,
-249,Saint-Pierre,PM,,,,,,,
-250,Geresk,AF,,,,,,,
-251,Kota Bahru,MY,,,,,,,
-252,Milkovo,RU,,,,,,,
-253,Trelew,AR,,,,,,,
-254,Kuzhorskaya,RU,,,,,,,
-255,Dakar,SN,,,,,,,
-256,Sar-E Pul,AF,,,,,,,
-257,Sobolevo,RU,,,,,,,
-258,Port Hedland,AU,,,,,,,
-259,Wucheng,CN,,,,,,,
-260,Samusu,WS,,,,,,,
-261,Wiang Sa,TH,,,,,,,
-262,Baruun-Urt,MN,,,,,,,
-263,Hovd,MN,,,,,,,
-264,Porto Novo,CV,,,,,,,
-265,Saleaula,WS,,,,,,,
-266,Utiroa,KI,,,,,,,
-267,Saint-Georges,GF,,,,,,,
-268,Newport,US,,,,,,,
-269,Namatanai,PG,,,,,,,
-270,Flinders,AU,,,,,,,
-271,Sao Gabriel,BR,,,,,,,
-272,Pedasi,PA,,,,,,,
-273,Tasiilaq,GL,,,,,,,
-274,Benoy,TD,,,,,,,
-275,Mahajanga,MG,,,,,,,
-276,Xam Nua,LA,,,,,,,
-277,Lasa,CN,,,,,,,
-278,Akyab,MM,,,,,,,
-279,Mangai,CD,,,,,,,
-280,Elko,US,,,,,,,
-281,Cayenne,GF,,,,,,,
-282,Umzimvubu,ZA,,,,,,,
-283,Kawalu,ID,,,,,,,
-284,Lucea,JM,,,,,,,
-285,Cap Malheureux,MU,,,,,,,
-286,Kudahuvadhoo,MV,,,,,,,
-287,Russell,NZ,,,,,,,
-288,Matara,LK,,,,,,,
-289,Chupa,RU,,,,,,,
-290,Kailua,US,,,,,,,
-291,Ruatoria,NZ,,,,,,,
-292,Isangel,VU,,,,,,,
-293,Svetlogorsk,RU,,,,,,,
-294,Tumannyy,RU,,,,,,,
-295,Severo-Kurilsk,RU,,,,,,,
-296,Elizabeth City,US,,,,,,,
-297,Hinton,CA,,,,,,,
-298,Bilibino,RU,,,,,,,
-299,Mamakan,RU,,,,,,,
-300,Paradwip,IN,,,,,,,
-301,Nizwa,OM,,,,,,,
-302,Bathsheba,BB,,,,,,,
-303,Hasaki,JP,,,,,,,
-304,Codrington,AG,,,,,,,
-305,Vazante,BR,,,,,,,
-306,Ekhabi,RU,,,,,,,
-307,Sitka,US,,,,,,,
-308,Dunedin,NZ,,,,,,,
-309,Tashtyp,RU,,,,,,,
-310,Azimur,MA,,,,,,,
-311,Billerbeck,DE,,,,,,,
-312,Roald,NO,,,,,,,
-313,Laramie,US,,,,,,,
-314,Manaure,CO,,,,,,,
-315,Vaitupu,WF,,,,,,,
-316,Victor Harbor,AU,,,,,,,
-317,Butterworth,ZA,,,,,,,
-318,Gravelbourg,CA,,,,,,,
-319,Paramonga,PE,,,,,,,
-320,Port Blair,IN,,,,,,,
-321,Lypova Dolyna,UA,,,,,,,
-322,Coihueco,CL,,,,,,,
-323,Tubuala,PA,,,,,,,
-324,Havre-Saint-Pierre,CA,,,,,,,
-325,Sandnessjoen,NO,,,,,,,
-326,Rawannawi,KI,,,,,,,
-327,Naliya,IN,,,,,,,
-328,Kayerkan,RU,,,,,,,
-329,Westport,NZ,,,,,,,
-330,Hofn,IS,,,,,,,
-331,Walvis Bay,NA,,,,,,,
-332,Hobyo,SO,,,,,,,
-333,Ola,RU,,,,,,,
-334,Ponta Do Sol,CV,,,,,,,
-335,San Patricio,MX,,,,,,,
-336,Barabai,ID,,,,,,,
-337,Oda,JP,,,,,,,
-338,Berdigestyakh,RU,,,,,,,
-339,Zabaykalsk,RU,,,,,,,
-340,Verkhoyansk,RU,,,,,,,
-341,Comodoro Rivadavia,AR,,,,,,,
-342,Biak,ID,,,,,,,
-343,Beloha,MG,,,,,,,
-344,Bor,CZ,,,,,,,
-345,Naron,ES,,,,,,,
-346,Mecca,SA,,,,,,,
-347,Usinsk,RU,,,,,,,
-348,Campo Largo,BR,,,,,,,
-349,Saint-Joseph,RE,,,,,,,
-350,Rio Largo,BR,,,,,,,
-351,Baykit,RU,,,,,,,
-352,Dmitriyev-Lgovskiy,RU,,,,,,,
-353,Arivonimamo,MG,,,,,,,
-354,Artyk,RU,,,,,,,
-355,Bandar-E Torkaman,IR,,,,,,,
-356,Pinsk,BY,,,,,,,
-357,Tual,ID,,,,,,,
-358,Grand River South East,MU,,,,,,,
-359,Luganville,VU,,,,,,,
-360,Shimoda,JP,,,,,,,
-361,Male,MV,,,,,,,
-362,Udachnyy,RU,,,,,,,
-363,Ketchikan,US,,,,,,,
-364,Bellinzona,CH,,,,,,,
-365,Hauge,NO,,,,,,,
-366,Skibbereen,IE,,,,,,,
-367,Sentyabrskiy,RU,,,,,,,
-368,Aflu,DZ,,,,,,,
-369,Kashi,CN,,,,,,,
-370,Mae Sai,TH,,,,,,,
-371,Mahebourg,MU,,,,,,,
-372,Vardo,NO,,,,,,,
-373,Kastamonu,TR,,,,,,,
-374,Mount Isa,AU,,,,,,,
-375,Kulhudhuffushi,MV,,,,,,,
-376,Eyl,SO,,,,,,,
-377,Sagaing,MM,,,,,,,
-378,Lagoa,PT,,,,,,,
-379,Kruisfontein,ZA,,,,,,,
-380,Broken Hill,AU,,,,,,,
-381,Talaya,RU,,,,,,,
-382,Dalgopol,BG,,,,,,,
-383,Jibuti,DJ,,,,,,,
-384,Seidu,SL,,,,,,,
-385,Inhambane,MZ,,,,,,,
-386,Sao Jose Da Coroa Grande,BR,,,,,,,
-387,Katsuura,JP,,,,,,,
-388,Ilesha,NG,,,,,,,
-389,Laguna,BR,,,,,,,
-390,Turayf,SA,,,,,,,
-391,Opuwo,NA,,,,,,,
-392,Koulikoro,ML,,,,,,,
-393,Chor,PK,,,,,,,
-394,Samarai,PG,,,,,,,
-395,Fairfield,US,,,,,,,
-396,Pasaje,EC,,,,,,,
-397,Alice Springs,AU,,,,,,,
-398,Kirakira,SB,,,,,,,
-399,Kutum,SD,,,,,,,
-400,Kerteh,MY,,,,,,,
-401,Beruwala,LK,,,,,,,
-402,Tromso,NO,,,,,,,
-403,Yumen,CN,,,,,,,
-404,Puerto Madryn,AR,,,,,,,
-405,Provideniya,RU,,,,,,,
-406,Anloga,GH,,,,,,,
-407,Guilin,CN,,,,,,,
-408,Cotija,MX,,,,,,,
-409,Rondonopolis,BR,,,,,,,
-410,Sao Filipe,CV,,,,,,,
-411,Pilao Arcado,BR,,,,,,,
-412,Dongsheng,CN,,,,,,,
-413,Puerto Ayacucho,VE,,,,,,,
-414,Ongandjera,NA,,,,,,,
-415,Quimper,FR,,,,,,,
-416,Lazaro Cardenas,MX,,,,,,,
-417,Celestun,MX,,,,,,,
-418,Boshnyakovo,RU,,,,,,,
-419,Nemuro,JP,,,,,,,
-420,Firozpur Jhirka,IN,,,,,,,
-421,Bonnyville,CA,,,,,,,
-422,Bara,SD,,,,,,,
-423,Marsa Matruh,EG,,,,,,,
-424,Atasu,KZ,,,,,,,
-425,Pedernales,DO,,,,,,,
-426,Angoche,MZ,,,,,,,
-427,Nizhneyansk,RU,,,,,,,
-428,Port Arthur,US,,,,,,,
-429,Cockburn Town,TC,,,,,,,
-430,Kamenka,RU,,,,,,,
-431,Luderitz,NA,,,,,,,
-432,Khuzhir,RU,,,,,,,
-433,Tabou,CI,,,,,,,
-434,Darnah,LY,,,,,,,
-435,Husavik,IS,,,,,,,
-436,Suntar,RU,,,,,,,
-437,Palabuhanratu,ID,,,,,,,
-438,Murmashi,RU,,,,,,,
-439,Chimbote,PE,,,,,,,
-440,Taoudenni,ML,,,,,,,
-441,Olavarria,AR,,,,,,,
-442,Tessalit,ML,,,,,,,
-443,Neryungri,RU,,,,,,,
-444,Antofagasta,CL,,,,,,,
-445,Pisco,PE,,,,,,,
-446,Khani,RU,,,,,,,
-447,Bonthe,SL,,,,,,,
-448,Khorol,UA,,,,,,,
-449,Tabatinga,BR,,,,,,,
-450,Korem,ET,,,,,,,
-451,Buala,SB,,,,,,,
-452,Imbituba,BR,,,,,,,
-453,Mehamn,NO,,,,,,,
-454,Bakchar,RU,,,,,,,
-455,Batagay,RU,,,,,,,
-456,Jalu,LY,,,,,,,
-457,Ambulu,ID,,,,,,,
-458,Qaqortoq,GL,,,,,,,
-459,Nanortalik,GL,,,,,,,
-460,Manokwari,ID,,,,,,,
-461,Baltatesti,RO,,,,,,,
-462,Terrace Bay,CA,,,,,,,
-463,Ambilobe,MG,,,,,,,
-464,Zhifang,CN,,,,,,,
-465,Guozhen,CN,,,,,,,
-466,Veraval,IN,,,,,,,
-467,Tutoia,BR,,,,,,,
-468,Kismayo,SO,,,,,,,
-469,Karaul,RU,,,,,,,
-470,Meyungs,PW,,,,,,,
-471,Rossano,IT,,,,,,,
-472,Necochea,AR,,,,,,,
-473,Jishou,CN,,,,,,,
-474,Coari,BR,,,,,,,
-475,Den Helder,NL,,,,,,,
-476,Whitehorse,CA,,,,,,,
-477,Alekseyevsk,RU,,,,,,,
-478,Pacific Grove,US,,,,,,,
-479,Derzhavinsk,KZ,,,,,,,
-480,Huaraz,PE,,,,,,,
-481,Meulaboh,ID,,,,,,,
-482,Varkaus,FI,,,,,,,
-483,Iralaya,HN,,,,,,,
-484,Freeport,US,,,,,,,
-485,Wenling,CN,,,,,,,
-486,Tarata,PE,,,,,,,
-487,Haibowan,CN,,,,,,,
-488,Wakkanai,JP,,,,,,,
-489,Raga,SD,,,,,,,
-490,Upington,ZA,,,,,,,
-491,Kharabali,RU,,,,,,,
-492,Margate,ZA,,,,,,,
-493,Kautokeino,NO,,,,,,,
-494,Floro,NO,,,,,,,
-495,Cam Pha,VN,,,,,,,
-496,Zhangye,CN,,,,,,,
-497,Gwadar,PK,,,,,,,
-498,Fortuna Foothills,US,,,,,,,
-499,Inegol,TR,,,,,,,
-500,Ambanja,MG,,,,,,,
-501,Kununurra,AU,,,,,,,
-502,Yulara,AU,,,,,,,
-503,Rio Gallegos,AR,,,,,,,
-504,Ginir,ET,,,,,,,
-505,Naranjito,EC,,,,,,,
-506,Havelock,US,,,,,,,
-507,Vagamo,NO,,,,,,,
-508,Sola,VU,,,,,,,
-509,Vallenar,CL,,,,,,,
-510,Gushikawa,JP,,,,,,,
-511,Kiama,AU,,,,,,,
-512,Swanton,US,,,,,,,
-513,Inongo,CD,,,,,,,
-514,Lagos,NG,,,,,,,
-515,Kimbe,PG,,,,,,,
-516,Taihe,CN,,,,,,,
-517,Kahului,US,,,,,,,
-518,Mananara,MG,,,,,,,
-519,Hamilton,BM,,,,,,,
-520,Hendijan,IR,,,,,,,
-521,Acajutla,SV,,,,,,,
-522,Svetlyy,RU,,,,,,,
-523,Puerto Narino,CO,,,,,,,
-524,Ciras,AF,,,,,,,
-525,Marsh Harbour,BS,,,,,,,
-526,Igrim,RU,,,,,,,
-527,Kijang,ID,,,,,,,
-528,Aswan,EG,,,,,,,
-529,Monroe,US,,,,,,,
-530,Mildura,AU,,,,,,,
-531,Kirkwall,GB,,,,,,,
-532,Wajir,KE,,,,,,,
-533,Bismil,TR,,,,,,,
-534,Taltal,CL,,,,,,,
-535,Cap-Aux-Meules,CA,,,,,,,
-536,Freetown,AG,,,,,,,
-537,Sibolga,ID,,,,,,,
-538,Uyuni,BO,,,,,,,
-539,Halifax,CA,,,,,,,
-540,Balabac,PH,,,,,,,
-541,Bayir,JO,,,,,,,
-542,Agva,TR,,,,,,,
-543,Aracati,BR,,,,,,,
-544,Rosenberg,US,,,,,,,
-545,Rakitnoye,RU,,,,,,,
-546,Bitung,ID,,,,,,,
-547,Dwarka,IN,,,,,,,
-548,Quatre Cocos,MU,,,,,,,
-549,Liyang,CN,,,,,,,
-550,Excelsior Springs,US,,,,,,,
-551,Kathmandu,NP,,,,,,,
-552,Zhigalovo,RU,,,,,,,
-553,Norman Wells,CA,,,,,,,
-554,Srednekolymsk,RU,,,,,,,
-555,Berezovyy,RU,,,,,,,
-556,Murray,US,,,,,,,
-557,Rayachoti,IN,,,,,,,
-558,Chipinge,ZW,,,,,,,
-559,Atchison,US,,,,,,,
-560,Delmas,ZA,,,,,,,
-561,Rethimnon,GR,,,,,,,
-562,Halalo,WF,,,,,,,
-563,Bonavista,CA,,,,,,,
-564,Kjopsvik,NO,,,,,,,
-565,Haapiti,PF,,,,,,,
-566,Pahrump,US,,,,,,,
-567,Akonolinga,CM,,,,,,,
-568,Loding,NO,,,,,,,
-569,Goderich,SL,,,,,,,
-570,Kharp,RU,,,,,,,
-571,Kaduy,RU,,,,,,,
-572,Ust-Kulom,RU,,,,,,,
-573,Ellisras,ZA,,,,,,,
-574,Puruandiro,MX,,,,,,,
-575,Kirensk,RU,,,,,,,
-576,North Bend,US,,,,,,,
-577,Srinagar,IN,,,,,,,
-578,Leh,IN,,,,,,,
-579,Lorengau,PG,,,,,,,
-580,Phan Thiet,VN,,,,,,,
-581,Lavrentiya,RU,,,,,,,
-582,Kokopo,PG,,,,,,,
-583,Tahoua,NE,,,,,,,
-584,Tasbuget,KZ,,,,,,,
-585,Anadyr,RU,,,,,,,
-586,Bocas Del Toro,PA,,,,,,,
-587,Presidente Olegario,BR,,,,,,,
-588,Camana,PE,,,,,,,
-589,Ahipara,NZ,,,,,,,
-590,Berdychiv,UA,,,,,,,
-591,Sijunjung,ID,,,,,,,
-592,Viligili,MV,,,,,,,
-593,Tilichiki,RU,,,,,,,
-594,Kargasok,RU,,,,,,,
-595,Weligama,LK,,,,,,,
-596,Henties Bay,NA,,,,,,,
-597,Brokopondo,SR,,,,,,,
-598,Santiago Del Estero,AR,,,,,,,
-599,Corn Island,NI,,,,,,,
-600,Maneadero,MX,,,,,,,
-601,Sayyan,YE,,,,,,,
-602,Maragogi,BR,,,,,,,
-603,Vao,NC,,,,,,,
-604,Novyy Urengoy,RU,,,,,,,
-605,Miraflores,CO,,,,,,,
-606,Ucluelet,CA,,,,,,,
-607,Churapcha,RU,,,,,,,
-608,Odesa,UA,,,,,,,
-609,Monte Alegre,BR,,,,,,,
-610,Eskasem,AF,,,,,,,
-611,Damara,CF,,,,,,,
-612,Sayat,TM,,,,,,,
-613,Del Rio,US,,,,,,,
-614,Ishigaki,JP,,,,,,,
-615,Carndonagh,IE,,,,,,,
-616,Kumluca,TR,,,,,,,
-617,Sangar,RU,,,,,,,
-618,Half Moon Bay,US,,,,,,,
-619,Boyolangu,ID,,,,,,,
-620,Ternate,ID,,,,,,,
-621,Saint-Francois,GP,,,,,,,
-622,Leningradskiy,RU,,,,,,,
-623,Prince Rupert,CA,,,,,,,
-624,Aktash,RU,,,,,,,
-625,Nikolskiy,RU,,,,,,,
-626,Batouri,CM,,,,,,,
-627,Akdepe,TM,,,,,,,
-628,Rovaniemi,FI,,,,,,,
-629,Mandurah,AU,,,,,,,
-630,Codajas,BR,,,,,,,
-631,Kunming,CN,,,,,,,
-632,Presidencia Roque Saenz Pena,AR,,,,,,,
-633,Vestmannaeyjar,IS,,,,,,,
-634,Ust-Kut,RU,,,,,,,
-635,Bacuit,PH,,,,,,,
-636,Hassleholm,SE,,,,,,,
-637,San Jose,GT,,,,,,,
-638,Maningrida,AU,,,,,,,
-639,Sorong,ID,,,,,,,
-640,Irece,BR,,,,,,,
-641,Iwanai,JP,,,,,,,
-642,Labutta,MM,,,,,,,
-643,Lipin Bor,RU,,,,,,,
-644,La Ronge,CA,,,,,,,
-645,Sakakah,SA,,,,,,,
-646,Korla,CN,,,,,,,
-647,Cabedelo,BR,,,,,,,
-648,Satitoa,WS,,,,,,,
-649,Nkhotakota,MW,,,,,,,
-650,Nelson Bay,AU,,,,,,,
-651,Rock Sound,BS,,,,,,,
-652,Ahuimanu,US,,,,,,,
-653,Kenai,US,,,,,,,
-654,Oneida,US,,,,,,,
-655,Shaping,CN,,,,,,,
-656,Zhoucheng,CN,,,,,,,
-657,Lompoc,US,,,,,,,
-658,Leshukonskoye,RU,,,,,,,
-659,Leopold,AU,,,,,,,
-660,Tula,MX,,,,,,,
-661,Fukue,JP,,,,,,,
-662,Tazovskiy,RU,,,,,,,
-663,Cocobeach,GA,,,,,,,
-664,Saint-Augustin,CA,,,,,,,
-665,Mega,ET,,,,,,,
-666,Turiacu,BR,,,,,,,
-667,Castanos,MX,,,,,,,
-668,Hays,US,,,,,,,
-669,Plettenberg Bay,ZA,,,,,,,
-670,Zhigansk,RU,,,,,,,
-671,Pitiquito,MX,,,,,,,
-672,Cheremukhovo,RU,,,,,,,
-673,Melendugno,IT,,,,,,,
-674,Betioky,MG,,,,,,,
-675,San Vicente,PH,,,,,,,
-676,Road Town,VG,,,,,,,
-677,Sandwich,US,,,,,,,
-678,Hoa Binh,VN,,,,,,,
-679,Fajardo,US,,,,,,,
-680,Pokrovsk,RU,,,,,,,
-681,Palu,ID,,,,,,,
-682,Maple Creek,CA,,,,,,,
-683,Kuruman,ZA,,,,,,,
-684,Southbridge,NZ,,,,,,,
-685,Bajil,YE,,,,,,,
-686,Malgrat De Mar,ES,,,,,,,
-687,Zharkent,KZ,,,,,,,
-688,San Andres,CO,,,,,,,
-689,Strezhevoy,RU,,,,,,,
-690,Tirano,IT,,,,,,,
-691,Vila,VU,,,,,,,
-692,Lac Du Bonnet,CA,,,,,,,
-693,Sasovo,RU,,,,,,,
-694,Burica,PA,,,,,,,
-695,The Valley,AI,,,,,,,
-696,Dukat,RU,,,,,,,
-697,Makakilo City,US,,,,,,,
-698,Sampit,ID,,,,,,,
-699,Quelimane,MZ,,,,,,,
-700,Ostrovnoy,RU,,,,,,,
-701,Vizinga,RU,,,,,,,
-702,Palana,RU,,,,,,,
-703,Gambela,ET,,,,,,,
-704,Yorkton,CA,,,,,,,
-705,Takoradi,GH,,,,,,,
-706,Buchanan,LR,,,,,,,
-707,Banda Aceh,ID,,,,,,,
-708,Burnie,AU,,,,,,,
-709,Fairbanks,US,,,,,,,
-710,Marovoay,MG,,,,,,,
-711,Northam,AU,,,,,,,
-712,Luau,AO,,,,,,,
-713,Turukhansk,RU,,,,,,,
-714,Konya,TR,,,,,,,
-715,Poum,NC,,,,,,,
-716,Doctor Juan Leon Mallorquin,PY,,,,,,,
-717,Balkanabat,TM,,,,,,,
-718,Teahupoo,PF,,,,,,,
-719,Sioux Lookout,CA,,,,,,,
-720,Hami,CN,,,,,,,
-721,Bernal,PE,,,,,,,
-722,Ayagoz,KZ,,,,,,,
-723,Mbandaka,CD,,,,,,,
-724,Nuuk,GL,,,,,,,
-725,Mapimi,MX,,,,,,,
-726,Roebourne,AU,,,,,,,
-727,Safaqis,TN,,,,,,,
-728,Mufumbwe,ZM,,,,,,,
-729,Kiunga,PG,,,,,,,
-730,Dawei,MM,,,,,,,
-731,Sur,OM,,,,,,,
-732,Klaeng,TH,,,,,,,
-733,Chagda,RU,,,,,,,
-734,Madaoua,NE,,,,,,,
-735,Tarudant,MA,,,,,,,
-736,Amapa,BR,,,,,,,
-737,Boden,SE,,,,,,,
-738,Karachi,PK,,,,,,,
-739,Aden,YE,,,,,,,
-740,Tynda,RU,,,,,,,
-741,Berekum,GH,,,,,,,
-742,Kanakeravan,AM,,,,,,,
-743,Kaeo,NZ,,,,,,,
-744,Cuencame,MX,,,,,,,
-745,Smithers,CA,,,,,,,
-746,Avera,PF,,,,,,,
-747,Morondava,MG,,,,,,,
-748,Atambua,ID,,,,,,,
-749,Viljoenskroon,ZA,,,,,,,
-750,Nouakchott,MR,,,,,,,
-751,Fort Frances,CA,,,,,,,
-752,Wicklow,IE,,,,,,,
-753,Vangaindrano,MG,,,,,,,
-754,Shihezi,CN,,,,,,,
-755,Zhireken,RU,,,,,,,
-756,Dudinka,RU,,,,,,,
-757,Alice Town,BS,,,,,,,
-758,Esil,KZ,,,,,,,
-759,Manta,EC,,,,,,,
-760,Jabinyanah,TN,,,,,,,
-761,Karratha,AU,,,,,,,
-762,Grafton,AU,,,,,,,
-763,Nhulunbuy,AU,,,,,,,
-764,Biloela,AU,,,,,,,
-765,Salym,RU,,,,,,,
-766,Harlingen,NL,,,,,,,
-767,Fukuchiyama,JP,,,,,,,
-768,Iraga,PH,,,,,,,
-769,Grand Centre,CA,,,,,,,
-770,Mentok,ID,,,,,,,
-771,Nyurba,RU,,,,,,,
-772,Semporna,MY,,,,,,,
-773,Korcula,HR,,,,,,,
-774,Manassas Park,US,,,,,,,
-775,Port Shepstone,ZA,,,,,,,
-776,Puerto Quijarro,BO,,,,,,,
-777,Poland,US,,,,,,,
-778,Salinas,EC,,,,,,,
-779,Ust-Omchug,RU,,,,,,,
-780,General Roca,AR,,,,,,,
-781,Tigil,RU,,,,,,,
-782,Vadlapudi,IN,,,,,,,
-783,Ikungi,TZ,,,,,,,
-784,Portel,BR,,,,,,,
-785,Inirida,CO,,,,,,,
-786,Port Lincoln,AU,,,,,,,
-787,Vysokogornyy,RU,,,,,,,
-788,Ozernovskiy,RU,,,,,,,
-789,Vore,AL,,,,,,,
-790,Vedeno,RU,,,,,,,
-791,Nueva Loja,EC,,,,,,,
-792,Batemans Bay,AU,,,,,,,
-793,Camindangan,PH,,,,,,,
-794,Changli,CN,,,,,,,
-795,Umiray,PH,,,,,,,
-796,Dingle,IE,,,,,,,
-797,Maniitsoq,GL,,,,,,,
-798,Thinadhoo,MV,,,,,,,
-799,Keetmanshoop,NA,,,,,,,
-800,Poso,ID,,,,,,,
-801,Monte Patria,CL,,,,,,,
-802,Brahmapuri,IN,,,,,,,
-803,Le Port,RE,,,,,,,
-804,Tashtagol,RU,,,,,,,
-805,Coihaique,CL,,,,,,,
-806,Belmonte,BR,,,,,,,
-807,Cascais,PT,,,,,,,
-808,Yar-Sale,RU,,,,,,,
-809,Presque Isle,US,,,,,,,
-810,Ponta Delgada,PT,,,,,,,
-811,Muravlenko,RU,,,,,,,
-812,Kieta,PG,,,,,,,
-813,Mezen,RU,,,,,,,
-814,Brookings,US,,,,,,,
-815,Lumsden,CA,,,,,,,
-816,Virginia Beach,US,,,,,,,
-817,Lolua,TV,,,,,,,
-818,Dianopolis,BR,,,,,,,
-819,Helong,CN,,,,,,,
-820,Nouadhibou,MR,,,,,,,
-821,Malaga,CO,,,,,,,
-822,Novooleksiyivka,UA,,,,,,,
-823,Bacolod,PH,,,,,,,
-824,Griffith,AU,,,,,,,
-825,Salumbar,IN,,,,,,,
-826,Ajdabiya,LY,,,,,,,
-827,Samoded,RU,,,,,,,
-828,Sabha,LY,,,,,,,
-829,Xining,CN,,,,,,,
-830,Sarmanovo,RU,,,,,,,
-831,Bardiyah,LY,,,,,,,
-832,Petropavlovsk-Kamchatskiy,RU,,,,,,,
-833,Kathu,TH,,,,,,,
-834,Grants,US,,,,,,,
-835,Mizdah,LY,,,,,,,
-836,Mangrol,IN,,,,,,,
-837,Kamenskoye,RU,,,,,,,
-838,Hongjiang,CN,,,,,,,
-839,Tianpeng,CN,,,,,,,
-840,Nam Tha,LA,,,,,,,
-841,Shieli,KZ,,,,,,,
-842,Maloshuyka,RU,,,,,,,
-843,Port Macquarie,AU,,,,,,,
-844,Shenjiamen,CN,,,,,,,
-845,Krasnoselkup,RU,,,,,,,
-846,Phibun Mangsahan,TH,,,,,,,
-847,Los Llanos De Aridane,ES,,,,,,,
-848,Dori,BF,,,,,,,
-849,Olafsvik,IS,,,,,,,
-850,Carutapera,BR,,,,,,,
-851,Mananjary,MG,,,,,,,
-852,Bendigo,AU,,,,,,,
-853,Ziarat,PK,,,,,,,
-854,Hihifo,TO,,,,,,,
-855,Bella Union,UY,,,,,,,
-856,Tuatapere,NZ,,,,,,,
-857,Ambon,ID,,,,,,,
-858,Warangal,IN,,,,,,,
-859,Tricase,IT,,,,,,,
-860,Hailar,CN,,,,,,,
-861,Harper,LR,,,,,,,
-862,Pafos,CY,,,,,,,
-863,Galgani,SD,,,,,,,
-864,Rennes,FR,,,,,,,
-865,Ouallam,NE,,,,,,,
-866,Dzitbalche,MX,,,,,,,
-867,Privolnyy,RU,,,,,,,
-868,Arlit,NE,,,,,,,
-869,Corby,GB,,,,,,,
-870,Monte Azul,BR,,,,,,,
-871,Synya,RU,,,,,,,
-872,Fevralsk,RU,,,,,,,
-873,Guasdualito,VE,,,,,,,
-874,Hualmay,PE,,,,,,,
-875,Sortland,NO,,,,,,,
-876,Puli,TW,,,,,,,
-877,Gorontalo,ID,,,,,,,
-878,Songjianghe,CN,,,,,,,
-879,Aksu,CN,,,,,,,
-880,Sosenskiy,RU,,,,,,,
-881,Maralal,KE,,,,,,,
-882,Soe,ID,,,,,,,
-883,Newry,GB,,,,,,,
-884,Sydney Mines,CA,,,,,,,
-885,Semnan,IR,,,,,,,
-886,Buqayq,SA,,,,,,,
-887,Novopokrovka,RU,,,,,,,
-888,Siemiatycze,PL,,,,,,,
-889,Sadon,RU,,,,,,,
-890,Palamos,ES,,,,,,,
-891,Thano Bula Khan,PK,,,,,,,
-892,Hearst,CA,,,,,,,
-893,Aksehir,TR,,,,,,,
-894,Sistranda,NO,,,,,,,
-895,Toora-Khem,RU,,,,,,,
-896,Mattru,SL,,,,,,,
-897,Majene,ID,,,,,,,
-898,Lashio,MM,,,,,,,
-899,Wattegama,LK,,,,,,,
-900,Murdochville,CA,,,,,,,
-901,Boueni,YT,,,,,,,
-902,Wagar,SD,,,,,,,
-903,North Platte,US,,,,,,,
-904,Lake City,US,,,,,,,
-905,Oranjemund,NA,,,,,,,
-906,Krusevac,RS,,,,,,,
-907,Simbahan,PH,,,,,,,
-908,Mashhad,IR,,,,,,,
-909,Ban Nahin,LA,,,,,,,
-910,Barabinsk,RU,,,,,,,
-911,Neiafu,TO,,,,,,,
-912,Flin Flon,CA,,,,,,,
-913,Nijar,ES,,,,,,,
-914,Misratah,LY,,,,,,,
-915,Egvekinot,RU,,,,,,,
-916,Wapi Pathum,TH,,,,,,,
-917,Kalmunai,LK,,,,,,,
-918,Mana,GF,,,,,,,
-919,Port Huron,US,,,,,,,
-920,Palauig,PH,,,,,,,
-921,Aasiaat,GL,,,,,,,
-922,Marawi,SD,,,,,,,
-923,Neftekamsk,RU,,,,,,,
-924,Murgab,TM,,,,,,,
-925,Tema,GH,,,,,,,
-926,Jiangkou,CN,,,,,,,
-927,Hay River,CA,,,,,,,
-928,Kodinsk,RU,,,,,,,
-929,Shitanjing,CN,,,,,,,
-930,Calabozo,VE,,,,,,,
-931,Bud,NO,,,,,,,
-932,Batticaloa,LK,,,,,,,
-933,Vorotynets,RU,,,,,,,
-934,Dabat,ET,,,,,,,
-935,Sibirskiy,RU,,,,,,,
-936,Pangai,TO,,,,,,,
-937,Aneho,TG,,,,,,,
-938,Vitimskiy,RU,,,,,,,
-939,Bhadrachalam,IN,,,,,,,
-940,Uwayl,SD,,,,,,,
-941,Tekeli,KZ,,,,,,,
-942,Okato,NZ,,,,,,,
-943,Tautira,PF,,,,,,,
-944,Oistins,BB,,,,,,,
-945,Hopkins,US,,,,,,,
-946,Baijiantan,CN,,,,,,,
-947,Elat,IL,,,,,,,
-948,Fresnillo,MX,,,,,,,
-949,Marcona,PE,,,,,,,
-950,Cortes,PH,,,,,,,
-951,Moussoro,TD,,,,,,,
-952,Washougal,US,,,,,,,
-953,Vytegra,RU,,,,,,,
-954,Soyo,AO,,,,,,,
-955,Troitsko-Pechorsk,RU,,,,,,,
-956,Kuito,AO,,,,,,,
-957,Nizhnekamsk,RU,,,,,,,
-958,Colares,PT,,,,,,,
-959,Huarmey,PE,,,,,,,
-960,Kupino,RU,,,,,,,
-961,Bonita Springs,US,,,,,,,
-962,Perth,AU,,,,,,,
-963,Champerico,GT,,,,,,,
-964,Yellandu,IN,,,,,,,
-965,Bilaspur,IN,,,,,,,
-966,Sabalgarh,IN,,,,,,,
-967,Gobo,JP,,,,,,,
-968,Sovetskiy,RU,,,,,,,
-969,Sarangani,PH,,,,,,,
-970,Ippy,CF,,,,,,,
-971,Matamoros,MX,,,,,,,
-972,Ixtapa,MX,,,,,,,
-973,Port Moresby,PG,,,,,,,
-974,Pasighat,IN,,,,,,,
-975,Manavgat,TR,,,,,,,
-976,Krasnyy Yar,RU,,,,,,,
-977,Vila Franca Do Campo,PT,,,,,,,
-978,Dibulla,CO,,,,,,,
-979,Dawlatabad,AF,,,,,,,
-980,Cooma,AU,,,,,,,
-981,Abu Dhabi,AE,,,,,,,
-982,Gamboma,CG,,,,,,,
-983,Salamiyah,SY,,,,,,,
-984,Goslar,DE,,,,,,,
-985,Aqtobe,KZ,,,,,,,
-986,Barras,BR,,,,,,,
-987,Komsomolskiy,RU,,,,,,,
-988,Enid,US,,,,,,,
-989,Zavetnoye,RU,,,,,,,
-990,Rapid Valley,US,,,,,,,
-991,Acari,PE,,,,,,,
-992,Nalut,LY,,,,,,,
-993,Qasigiannguit,GL,,,,,,,
-994,Mahanje,TZ,,,,,,,
-995,Novoagansk,RU,,,,,,,
-996,Uruzgan,AF,,,,,,,
-997,Ler,SD,,,,,,,
-998,Springdale,CA,,,,,,,
-999,Candawaga,PH,,,,,,,
-1000,Agadir,MA,,,,,,,
-1001,Moffat,GB,,,,,,,
-1002,Limulunga,ZM,,,,,,,
-1003,Kenora,CA,,,,,,,
-1004,Beyneu,KZ,,,,,,,
-1005,Aykhal,RU,,,,,,,
-1006,Kopayhorod,UA,,,,,,,
-1007,Tocantinopolis,BR,,,,,,,
-1008,Karczew,PL,,,,,,,
-1009,Santo Amaro Da Imperatriz,BR,,,,,,,
-1010,Jining,CN,,,,,,,
-1011,Mitsamiouli,KM,,,,,,,
-1012,Takapau,NZ,,,,,,,
-1013,Yithion,GR,,,,,,,
-1014,Antalaha,MG,,,,,,,
-1015,Louisbourg,CA,,,,,,,
-1016,Edson,CA,,,,,,,
-1017,Imperia,IT,,,,,,,
-1018,Chernyshevskiy,RU,,,,,,,
-1019,Adrar,DZ,,,,,,,
-1020,Katherine,AU,,,,,,,
-1021,Dubbo,AU,,,,,,,
-1022,Curuca,BR,,,,,,,
-1023,Morros,BR,,,,,,,
-1024,Disna,BY,,,,,,,
-1025,Broome,AU,,,,,,,
-1026,Ulcinj,ME,,,,,,,
-1027,Longlac,CA,,,,,,,
-1028,Mashpee,US,,,,,,,
-1029,Mumford,GH,,,,,,,
-1030,Saint Anthony,CA,,,,,,,
-1031,Shagonar,RU,,,,,,,
-1032,Serik,TR,,,,,,,
-1033,Mabaruma,GY,,,,,,,
-1034,Bay Roberts,CA,,,,,,,
-1035,Katobu,ID,,,,,,,
-1036,Novaya Lyada,RU,,,,,,,
-1037,Corrales,PE,,,,,,,
-1038,Barao De Melgaco,BR,,,,,,,
-1039,Arman,RU,,,,,,,
-1040,Araouane,ML,,,,,,,
-1041,Luoyang,CN,,,,,,,
-1042,Fort-Shevchenko,KZ,,,,,,,
-1043,Lewiston,US,,,,,,,
-1044,Raychikhinsk,RU,,,,,,,
-1045,Dawson Creek,CA,,,,,,,
-1046,Pingliang,CN,,,,,,,
-1047,Ulaanbaatar,MN,,,,,,,
-1048,Miri,MY,,,,,,,
-1049,Solnechnyy,RU,,,,,,,
-1050,Nguru,NG,,,,,,,
-1051,Sorland,NO,,,,,,,
-1052,Elizabethtown,US,,,,,,,
-1053,Conceicao Da Barra,BR,,,,,,,
-1054,Reutte,AT,,,,,,,
-1055,Burns Lake,CA,,,,,,,
-1056,Aripuana,BR,,,,,,,
-1057,Linguere,SN,,,,,,,
-1058,Yaan,CN,,,,,,,
-1059,Sisimiut,GL,,,,,,,
-1060,Bogorodskoye,RU,,,,,,,
-1061,Gobabis,NA,,,,,,,
-1062,Port Augusta,AU,,,,,,,
-1063,Njombe,TZ,,,,,,,
-1064,Nipawin,CA,,,,,,,
-1065,Guangyuan,CN,,,,,,,
-1066,Kaa-Khem,RU,,,,,,,
-1067,Miyako,JP,,,,,,,
-1068,Muzhi,RU,,,,,,,
-1069,Pilar,PH,,,,,,,
-1070,Metro,ID,,,,,,,
-1071,Camacha,PT,,,,,,,
-1072,Evensk,RU,,,,,,,
-1073,Slave Lake,CA,,,,,,,
-1074,Nizhniy Mamon,RU,,,,,,,
-1075,Gazi,KE,,,,,,,
-1076,Bussigny,CH,,,,,,,
-1077,Umri,IN,,,,,,,
-1078,Meadow Lake,CA,,,,,,,
-1079,Jonesboro,US,,,,,,,
-1080,Yamoto,JP,,,,,,,
-1081,Kanniyakumari,IN,,,,,,,
-1082,Tinos,GR,,,,,,,
-1083,Storforshei,NO,,,,,,,
-1084,El Alto,PE,,,,,,,
-1085,Susangerd,IR,,,,,,,
-1086,Urusha,RU,,,,,,,
-1087,Kanigiri,IN,,,,,,,
-1088,Santa Cruz,CR,,,,,,,
-1089,Monchegorsk,RU,,,,,,,
-1090,Chulman,RU,,,,,,,
-1091,Richards Bay,ZA,,,,,,,
-1092,Bintulu,MY,,,,,,,
-1093,Teknaf,BD,,,,,,,
-1094,Tongzi,CN,,,,,,,
-1095,Olecko,PL,,,,,,,
-1096,Nakonde,ZM,,,,,,,
-1097,Tha Maka,TH,,,,,,,
-1098,Ossora,RU,,,,,,,
-1099,Jaque,PA,,,,,,,
-1100,Gornyatskiy,RU,,,,,,,
-1101,Kuryk,KZ,,,,,,,
-1102,Nagyhegyes,HU,,,,,,,
-1103,Muisne,EC,,,,,,,
-1104,Tabuk,PH,,,,,,,
-1105,Latung,PH,,,,,,,
-1106,Waddan,LY,,,,,,,
-1107,Pangody,RU,,,,,,,
-1108,Honningsvag,NO,,,,,,,
-1109,Bilma,NE,,,,,,,
-1110,Cazones,MX,,,,,,,
-1111,Carhuaz,PE,,,,,,,
-1112,Zeya,RU,,,,,,,
-1113,Jiuquan,CN,,,,,,,
-1114,Bria,CF,,,,,,,
-1115,Sambava,MG,,,,,,,
-1116,Carlton,GB,,,,,,,
-1117,Liman,RU,,,,,,,
-1118,Jinchang,CN,,,,,,,
-1119,Fare,PF,,,,,,,
-1120,Gat,LY,,,,,,,
-1121,Ilmajoki,FI,,,,,,,
-1122,Seydi,TM,,,,,,,
-1123,Mokokchung,IN,,,,,,,
-1124,Zhangjiakou,CN,,,,,,,
-1125,Villanueva De La Serena,ES,,,,,,,
-1126,Zabol,IR,,,,,,,
-1127,Thunder Bay,CA,,,,,,,
-1128,Bakel,SN,,,,,,,
-1129,Non Sung,TH,,,,,,,
-1130,Coolum Beach,AU,,,,,,,
-1131,Tandalti,SD,,,,,,,
-1132,Saint-Louis,SN,,,,,,,
-1133,Mujiayingzi,CN,,,,,,,
-1134,Megion,RU,,,,,,,
-1135,Praia Da Vitoria,PT,,,,,,,
-1136,Enniscorthy,IE,,,,,,,
-1137,Shakawe,BW,,,,,,,
-1138,Kibiti,TZ,,,,,,,
-1139,Berasia,IN,,,,,,,
-1140,Bolobo,CD,,,,,,,
-1141,Boralday,KZ,,,,,,,
-1142,Coroneo,MX,,,,,,,
-1143,Yoichi,JP,,,,,,,
-1144,Krasnoturansk,RU,,,,,,,
-1145,Mandera,KE,,,,,,,
-1146,Cordoba,AR,,,,,,,
-1147,Kazalinsk,KZ,,,,,,,
-1148,Springfield,US,,,,,,,
-1149,Tambopata,PE,,,,,,,
-1150,Isiro,CD,,,,,,,
-1151,Zhumadian,CN,,,,,,,
-1152,Gao,ML,,,,,,,
-1153,Brae,GB,,,,,,,
-1154,Vargashi,RU,,,,,,,
-1155,Lampazos De Naranjo,MX,,,,,,,
-1156,Sharjah,AE,,,,,,,
-1157,Kabanjahe,ID,,,,,,,
-1158,Loa Janan,ID,,,,,,,
-1159,Urumqi,CN,,,,,,,
-1160,Puerto Carreno,CO,,,,,,,
-1161,Chara,RU,,,,,,,
-1162,Autazes,BR,,,,,,,
-1163,Paraiso,MX,,,,,,,
-1164,Iracoubo,GF,,,,,,,
-1165,Bilecik,TR,,,,,,,
-1166,Tuy Hoa,VN,,,,,,,
-1167,Yeppoon,AU,,,,,,,
-1168,Wilmington,US,,,,,,,
-1169,Longyan,CN,,,,,,,
-1170,Ibra,OM,,,,,,,
-1171,Ciudad Del Maiz,MX,,,,,,,
-1172,Christchurch,NZ,,,,,,,
-1173,Yuxia,CN,,,,,,,
-1174,Loyga,RU,,,,,,,
-1175,Sao Raimundo Nonato,BR,,,,,,,
-1176,Deder,ET,,,,,,,
-1177,Grado,IT,,,,,,,
-1178,Yeniseysk,RU,,,,,,,
-1179,Port Said,EG,,,,,,,
-1180,Bandar,ID,,,,,,,
-1181,Kloulklubed,PW,,,,,,,
-1182,Tanout,NE,,,,,,,
-1183,Adre,TD,,,,,,,
-1184,Montrose,US,,,,,,,
-1185,Salmas,IR,,,,,,,
-1186,Mill Valley,US,,,,,,,
-1187,Karistos,GR,,,,,,,
-1188,Omboue,GA,,,,,,,
-1189,Mayo,CA,,,,,,,
-1190,Lisala,CD,,,,,,,
-1191,Luena,AO,,,,,,,
-1192,Bichura,RU,,,,,,,
-1193,Quebo,GW,,,,,,,
-1194,Zonguldak,TR,,,,,,,
-1195,Ronneby,SE,,,,,,,
-1196,Tidore,ID,,,,,,,
-1197,Lovozero,RU,,,,,,,
-1198,Madisonville,US,,,,,,,
-1199,Abalak,NE,,,,,,,
-1200,Zachagansk,KZ,,,,,,,
-1201,Sassandra,CI,,,,,,,
-1202,Rongcheng,CN,,,,,,,
-1203,Kachikau,BW,,,,,,,
-1204,Coquimbo,CL,,,,,,,
-1205,Klyuchi,RU,,,,,,,
-1206,Auki,SB,,,,,,,
-1207,Pangkalanbuun,ID,,,,,,,
-1208,Buin,PG,,,,,,,
-1209,Saint-Leu,RE,,,,,,,
-1210,Barroualie,VC,,,,,,,
-1211,Neutraubling,DE,,,,,,,
-1212,Teya,RU,,,,,,,
-1213,Qui Nhon,VN,,,,,,,
-1214,Tombouctou,ML,,,,,,,
-1215,Hulan,CN,,,,,,,
-1216,Chulym,RU,,,,,,,
-1217,Tignere,CM,,,,,,,
-1218,Selenginsk,RU,,,,,,,
-1219,Kaka,TM,,,,,,,
-1220,Ullapool,GB,,,,,,,
-1221,Beira,MZ,,,,,,,
-1222,Youghal,IE,,,,,,,
-1223,Ixtacomitan,MX,,,,,,,
-1224,Dolores,AR,,,,,,,
-1225,Mastic Beach,US,,,,,,,
-1226,Glendive,US,,,,,,,
-1227,Rivera,UY,,,,,,,
-1228,Matagami,CA,,,,,,,
-1229,Camargo,BO,,,,,,,
-1230,Almaznyy,RU,,,,,,,
-1231,Caiaponia,BR,,,,,,,
-1232,Calama,CL,,,,,,,
-1233,Pinar Del Rio,CU,,,,,,,
-1234,Ballyhaunis,IE,,,,,,,
-1235,Pallasovka,RU,,,,,,,
-1236,Kattivakkam,IN,,,,,,,
-1237,Makat,KZ,,,,,,,
-1238,Zhezkazgan,KZ,,,,,,,
-1239,Bodrum,TR,,,,,,,
-1240,Jacareacanga,BR,,,,,,,
-1241,Vestmanna,FO,,,,,,,
-1242,Seymchan,RU,,,,,,,
-1243,Bolshoye Sorokino,RU,,,,,,,
-1244,Oktyabrskiy,RU,,,,,,,
-1245,Formoso Do Araguaia,BR,,,,,,,
-1246,Progreso,UY,,,,,,,
-1247,Kotdwara,IN,,,,,,,
-1248,Islamkot,PK,,,,,,,
-1249,Babstovo,RU,,,,,,,
-1250,Suzun,RU,,,,,,,
-1251,Wanning,CN,,,,,,,
-1252,Valdemarpils,LV,,,,,,,
-1253,Caico,BR,,,,,,,
-1254,Peterhead,GB,,,,,,,
-1255,Iskateley,RU,,,,,,,
-1256,Yichang,CN,,,,,,,
-1257,Mnogovershinnyy,RU,,,,,,,
-1258,Dera Din Panah,PK,,,,,,,
-1259,Wanaka,NZ,,,,,,,
-1260,Tecoanapa,MX,,,,,,,
-1261,Aljezur,PT,,,,,,,
-1262,Manono,CD,,,,,,,
-1263,Cairns,AU,,,,,,,
-1264,Sao Caetano De Odivelas,BR,,,,,,,
-1265,Karauzyak,UZ,,,,,,,
-1266,Tacuarembo,UY,,,,,,,
-1267,Dataganj,IN,,,,,,,
-1268,Abhar,IR,,,,,,,
-1269,Wolmaranstad,ZA,,,,,,,
-1270,Marsabit,KE,,,,,,,
-1271,Rockford,US,,,,,,,
-1272,Gangotri,IN,,,,,,,
-1273,Matsanga,CG,,,,,,,
-1274,Henzada,MM,,,,,,,
-1275,Tikrit,IQ,,,,,,,
-1276,Marzuq,LY,,,,,,,
-1277,Nantucket,US,,,,,,,
-1278,Lindi,TZ,,,,,,,
-1279,Kandrian,PG,,,,,,,
-1280,Skelleftea,SE,,,,,,,
-1281,Chacabuco,AR,,,,,,,
-1282,Yarmouth,CA,,,,,,,
-1283,Cerrito,PY,,,,,,,
-1284,Florianopolis,BR,,,,,,,
-1285,Tawzar,TN,,,,,,,
-1286,Requena,PE,,,,,,,
-1287,Zyryanka,RU,,,,,,,
-1288,Jumla,NP,,,,,,,
-1289,Riyadh,SA,,,,,,,
-1290,Fomboni,KM,,,,,,,
-1291,Ambunti,PG,,,,,,,
-1292,Pundaguitan,PH,,,,,,,
-1293,Ipixuna,BR,,,,,,,
-1294,Amarante Do Maranhao,BR,,,,,,,
-1295,Bulancak,TR,,,,,,,
-1296,Alakurtti,RU,,,,,,,
-1297,Prince Albert,CA,,,,,,,
-1298,Chumikan,RU,,,,,,,
-1299,Kouloura,GR,,,,,,,
-1300,Canita,PA,,,,,,,
-1301,Dodoma,TZ,,,,,,,
-1302,Goure,NE,,,,,,,
-1303,Puerto Del Rosario,ES,,,,,,,
-1304,Marystown,CA,,,,,,,
-1305,Mithimna,GR,,,,,,,
-1306,Bazarnyy Karabulak,RU,,,,,,,
-1307,Jahrom,IR,,,,,,,
-1308,Quang Ngai,VN,,,,,,,
-1309,Ishim,RU,,,,,,,
-1310,Bashmakovo,RU,,,,,,,
-1311,Arinos,BR,,,,,,,
-1312,Marathon,US,,,,,,,
-1313,Bhojudih,IN,,,,,,,
-1314,Voh,NC,,,,,,,
-1315,Deer Lake,CA,,,,,,,
-1316,Burg,DE,,,,,,,
-1317,Poronaysk,RU,,,,,,,
-1318,Gamba,GA,,,,,,,
-1319,Biu,NG,,,,,,,
-1320,Pak Phanang,TH,,,,,,,
-1321,Daye,CN,,,,,,,
-1322,Moa,CU,,,,,,,
-1323,Tigzirt,DZ,,,,,,,
-1324,Wawa,CA,,,,,,,
-1325,Mizan Teferi,ET,,,,,,,
-1326,Floresta,BR,,,,,,,
-1327,Kitgum,UG,,,,,,,
-1328,Roma,AU,,,,,,,
-1329,Rio Casca,BR,,,,,,,
-1330,Inta,RU,,,,,,,
-1331,Strani,CZ,,,,,,,
-1332,Caxito,AO,,,,,,,
-1333,Taburbah,TN,,,,,,,
-1334,Hervey Bay,AU,,,,,,,
-1335,Punta Alta,AR,,,,,,,
-1336,Santiago,PH,,,,,,,
-1337,Ijaki,KI,,,,,,,
-1338,Kaz,RU,,,,,,,
-1339,Gillette,US,,,,,,,
-1340,Hattiesburg,US,,,,,,,
-1341,Karpushikha,RU,,,,,,,
-1342,Eenhana,NA,,,,,,,
-1343,Cuajinicuilapa,MX,,,,,,,
-1344,Mercedes,AR,,,,,,,
-1345,Front Royal,US,,,,,,,
-1346,Ailigandi,PA,,,,,,,
-1347,Norsup,VU,,,,,,,
-1348,Krasnyy Oktyabr,RU,,,,,,,
-1349,Traiguen,CL,,,,,,,
-1350,Maarianhamina,FI,,,,,,,
-1351,Roros,NO,,,,,,,
-1352,Taldan,RU,,,,,,,
-1353,Pyaozerskiy,RU,,,,,,,
-1354,Dali,CN,,,,,,,
-1355,Sao Felix Do Xingu,BR,,,,,,,
-1356,Puerto Penasco,MX,,,,,,,
-1357,Litovko,RU,,,,,,,
-1358,Aranos,NA,,,,,,,
-1359,Iki-Burul,RU,,,,,,,
-1360,Susurluk,TR,,,,,,,
-1361,Kyabe,TD,,,,,,,
-1362,Borisoglebsk,RU,,,,,,,
-1363,Kilinochchi,LK,,,,,,,
-1364,Sheridan,US,,,,,,,
-1365,Kajaani,FI,,,,,,,
-1366,Presidente Medici,BR,,,,,,,
-1367,Banjar,ID,,,,,,,
-1368,Raudeberg,NO,,,,,,,
-1369,Candiis,PH,,,,,,,
-1370,Voyvozh,RU,,,,,,,
-1371,Manicore,BR,,,,,,,
-1372,Penzance,GB,,,,,,,
-1373,Barcelos,BR,,,,,,,
-1374,Pitanga,BR,,,,,,,
-1375,Acurenam,GQ,,,,,,,
-1376,Qinhuangdao,CN,,,,,,,
-1377,Sun City West,US,,,,,,,
-1378,Mossendjo,CG,,,,,,,
-1379,Upata,VE,,,,,,,
-1380,Abu Zabad,SD,,,,,,,
-1381,Suamico,US,,,,,,,
-1382,Douglas,US,,,,,,,
-1383,Havoysund,NO,,,,,,,
-1384,Hobbs,US,,,,,,,
-1385,Basco,PH,,,,,,,
-1386,Maldonado,UY,,,,,,,
-1387,Ensley,US,,,,,,,
-1388,Sibenik,HR,,,,,,,
-1389,Monteagudo,BO,,,,,,,
-1390,Zambezi,ZM,,,,,,,
-1391,Gaspar,BR,,,,,,,
-1392,Olga,RU,,,,,,,
-1393,Porbandar,IN,,,,,,,
-1394,Benjamin Constant,BR,,,,,,,
-1395,Campbell River,CA,,,,,,,
-1396,Wainwright,CA,,,,,,,
-1397,Syracuse,IT,,,,,,,
-1398,Juneau,US,,,,,,,
-1399,Cozumel,MX,,,,,,,
-1400,Balykshi,KZ,,,,,,,
+0,Saleaula,WS,,,,,,,
+1,Sitka,US,57.05,-135.33,37.4,87,90,8.05,1612573070
+2,Ushuaia,AR,-54.8,-68.3,46.4,76,75,26.46,1612573022
+3,Narsaq,GL,60.92,-46.05,17.6,45,0,3.44,1612572771
+4,Puerto Ayora,EC,-0.74,-90.35,77,93,77,7,1612573033
+5,Rokupr,SL,8.67,-12.39,71.56,81,0,1.57,1612573459
+6,Albany,AU,42.6,-73.97,37,69,36,4.61,1612573027
+7,Bluff,NZ,-46.6,168.33,60.35,71,33,2.04,1612572904
+8,Geraldton,AU,-28.77,114.6,64.4,77,90,23.02,1612572941
+9,Hobart,AU,-42.88,147.33,78.01,53,75,13.8,1612572817
+10,Bethel,US,41.37,-73.41,36,93,1,9.15,1612572921
+11,Carnarvon,ZA,-24.87,113.63,80.6,100,90,20.71,1612572913
+12,Nikolskoye,RU,59.7,30.79,12,78,75,11.18,1612572709
+13,Takoradi,GH,4.88,-1.76,79.52,88,100,6.8,1612573461
+14,Jalu,LY,29.03,21.55,52.16,65,0,2.77,1612573187
+15,Ojinaga,MX,29.57,-104.42,71.6,15,1,5.75,1612573060
+16,Busselton,AU,-33.65,115.33,64,73,100,5.01,1612573027
+17,Taolanaro,MG,,,,,,,
+18,Champerico,GT,14.3,-91.92,80.6,78,75,9.22,1612573365
+19,Shingu,JP,33.73,135.98,50,71,75,3.44,1612573126
+20,Belushya Guba,RU,,,,,,,
+21,Port Lincoln,AU,-34.73,135.87,66.61,70,73,17.05,1612572979
+22,Pierre,US,44.37,-100.35,21.2,53,1,14.97,1612573026
+23,Cockburn Town,TC,21.46,-71.14,76.98,84,19,19.6,1612572999
+24,San Patricio,MX,28.02,-97.52,59,72,90,11.5,1612572957
+25,Ushibuka,JP,32.19,130.02,51.62,88,100,5.79,1612573464
+26,Bocaranga,CF,,,,,,,
+27,Atuona,PF,-9.8,-139.03,79.45,81,40,17.83,1612573045
+28,Vaini,TO,-21.2,-175.2,84.2,84,75,4.61,1612573053
+29,Olinda,BR,-8.01,-34.86,78.8,73,75,6.91,1612572960
+30,Haines Junction,CA,60.75,-137.51,-11.2,64,100,1.41,1612573074
+31,Tecoanapa,MX,16.52,-98.75,78.31,71,4,4.45,1612573465
+32,Siguiri,GN,11.67,-9.5,74.71,19,0,2.64,1612573465
+33,Ahipara,NZ,-35.17,173.17,69.66,69,100,2.98,1612573466
+34,Tromso,NO,69.65,18.96,28.4,74,75,16.11,1612573045
+35,Tuktoyaktuk,CA,69.45,-133.04,-31,75,75,10.36,1612572764
+36,Georgetown,SH,5.41,100.34,81,83,20,6.02,1612572641
+37,Laguna,BR,38.42,-121.42,64.4,34,1,3.44,1612572954
+38,Longyearbyen,SJ,78.22,15.64,28.4,69,75,16.11,1612573074
+39,Clyde River,CA,70.47,-68.59,-14.8,76,90,11.5,1612573067
+40,Yulara,AU,-25.24,130.99,75.2,27,0,16.11,1612573467
+41,Punta Arenas,CL,-53.15,-70.92,51.8,50,0,18.41,1612573038
+42,Chuy,UY,-33.7,-53.46,60.42,85,0,6.76,1612572951
+43,Kapaa,US,22.08,-159.32,71.6,56,20,6.91,1612573036
+44,Hithadhoo,MV,-0.6,73.08,81.79,80,100,15.14,1612572729
+45,Barentsburg,SJ,,,,,,,
+46,Sinnamary,GF,5.38,-52.95,77.63,87,86,14.58,1612573446
+47,Ribeira Grande,PT,38.52,-28.7,59.2,84,100,12.73,1612572913
+48,Pandamatenga,BW,-18.53,25.63,66.22,92,99,3.8,1612573469
+49,Barrow,US,71.29,-156.79,-9.4,70,20,11.5,1612573037
+50,Guerrero Negro,MX,27.98,-114.06,62.2,58,0,17.63,1612572924
+51,Butaritari,KI,3.07,172.79,81.39,80,93,17.76,1612572897
+52,Viedma,AR,-40.81,-63.0,68,82,0,15.95,1612572961
+53,Aktash,UZ,50.3,87.73,7.66,95,100,4.27,1612573470
+54,Attawapiskat,CA,,,,,,,
+55,Illoqqortoormiut,GL,,,,,,,
+56,Talnakh,RU,69.49,88.4,-27.56,83,51,4.56,1612572950
+57,Mataura,PF,-46.19,168.86,74.98,47,92,3.65,1612573037
+58,Pisco,PE,-13.7,-76.22,71.6,83,0,13.8,1612572874
+59,Campbell River,CA,50.02,-125.24,48.2,61,40,6.91,1612573356
+60,Amderma,RU,,,,,,,
+61,Mount Gambier,AU,-37.83,140.77,64.4,68,40,13.8,1612572958
+62,Rikitea,PF,-23.12,-134.97,78.76,70,11,12.75,1612573013
+63,Aksu,CN,41.12,80.26,22.62,87,83,1.88,1612573323
+64,Saldanha,ZA,-33.01,17.94,62.6,82,0,10.36,1612573104
+65,Tasiilaq,GL,65.61,-37.64,28.4,59,75,5.75,1612572929
+66,Kavieng,PG,-2.57,150.8,83.3,72,73,4.05,1612573062
+67,Beisfjord,NO,68.38,17.6,28.4,74,75,8.05,1612573473
+68,Amazar,RU,53.86,120.88,-11.02,84,100,3.71,1612573474
+69,Portland,AU,45.52,-122.68,52,76,75,3.44,1612572752
+70,Moussoro,TD,13.64,16.49,64.89,26,0,14.56,1612573474
+71,Airai,PW,-8.93,125.41,67.15,96,100,5.1,1612572710
+72,Marcona,PE,,,,,,,
+73,Qaanaaq,GL,77.48,-69.36,-4.9,77,100,7.94,1612572882
+74,At-Bashi,KG,41.17,75.81,9.46,54,84,0.6,1612573475
+75,Hamilton,BM,39.18,-84.53,35.6,51,40,8.05,1612573047
+76,Cape Town,ZA,-33.93,18.42,69.01,88,0,17.27,1612572886
+77,Eureka,US,40.8,-124.16,54,89,35,10,1612573327
+78,Hokitika,NZ,-42.72,170.97,64.76,69,100,6.85,1612573476
+79,Ilulissat,GL,69.22,-51.1,10.4,31,100,12.66,1612572756
+80,Nizhneyansk,RU,,,,,,,
+81,Arraial Do Cabo,BR,-22.97,-42.03,75.54,94,100,9.42,1612573055
+82,Mar Del Plata,AR,-38.0,-57.56,69.8,46,0,5.75,1612573048
+83,Yellowknife,CA,62.46,-114.35,-31,68,90,10.36,1612572831
+84,Gaya,NE,24.78,85,57.2,94,75,4.61,1612573477
+85,Alice Springs,AU,-23.7,133.88,82.99,31,90,12.66,1612573000
+86,Kaspiyskiy,RU,45.39,47.37,32.38,88,0,25.12,1612573478
+87,Sentyabrskiy,RU,,,,,,,
+88,Lebu,CL,-37.62,-73.65,57.87,92,11,3.69,1612572928
+89,Coquimbo,CL,-29.95,-71.34,60.8,88,75,9.22,1612572846
+90,Muret,FR,43.33,1.25,55.4,82,90,19.57,1612573479
+91,Saskylakh,RU,71.92,114.08,-31.31,83,78,5.37,1612572761
+92,Presidente Medici,BR,-11.18,-61.9,76.15,92,100,0.22,1612573479
+93,Karratha,AU,-20.74,116.85,82.58,67,23,11.1,1612573153
+94,Dikson,RU,73.51,80.55,-31.65,85,9,10.87,1612573024
+95,Oriximina,BR,-1.77,-55.87,80.46,73,98,3.4,1612573124
+96,Luderitz,NA,-26.65,15.16,70.23,51,0,21.12,1612573041
+97,Chadan,RU,51.28,91.58,11.5,92,100,1.39,1612573480
+98,Chernyshevskiy,RU,63.01,112.47,-33.99,85,94,1.74,1612573153
+99,Saint-Philippe,RE,-21.36,55.77,78.8,65,0,6.91,1612572889
+100,Cabo San Lucas,MX,22.89,-109.91,80.6,36,20,3.44,1612573032
+101,Kodiak,US,57.79,-152.41,39.2,65,75,14.97,1612573075
+102,Torbay,CA,47.67,-52.73,36,100,90,25.32,1612573481
+103,Santa Rosa,AR,14.31,121.11,84,69,40,3.44,1612573368
+104,Cap-Aux-Meules,CA,47.38,-61.86,32,86,98,13.8,1612573322
+105,Atambua,ID,-9.11,124.89,75.43,89,100,2.91,1612572952
+106,Awjilah,LY,29.11,21.29,53.29,59,0,3.69,1612573482
+107,Mabaruma,GY,8.2,-59.78,74.23,85,99,5.1,1612573483
+108,Alto Araguaia,BR,-17.31,-53.22,71.58,92,100,5.84,1612573483
+109,Maltahohe,NA,-24.83,16.98,76.37,19,0,14.29,1612573467
+110,Manuk Mangkaw,PH,4.8,119.85,80.53,82,100,9.73,1612573483
+111,Sao Filipe,CV,14.9,-24.5,70.16,74,17,13.38,1612573043
+112,Chokurdakh,RU,70.63,147.92,-16.82,87,95,12.1,1612573057
+113,Bani,DO,18.28,-70.33,80.01,81,14,3,1612573484
+114,Vanavara,RU,60.34,102.28,0.01,93,100,6.06,1612572979
+115,Ponta Do Sol,CV,32.67,-17.1,51.01,69,52,5.99,1612572897
+116,Nome,US,64.5,-165.41,15.8,86,90,24.16,1612573485
+117,Gwanda,ZW,-20.93,29,69.78,92,100,8.59,1612573485
+118,Aksarka,RU,66.56,67.8,-21.1,87,100,14.18,1612573069
+119,Kasrawad,IN,22.13,75.6,51.8,54,0,6.91,1612573485
+120,Chissamba,AO,-12.17,17.33,64.87,92,100,1.5,1612573486
+121,Thompson,CA,55.74,-97.86,-20.2,69,75,13.8,1612572891
+122,Avarua,CK,-21.21,-159.78,86,70,20,12.66,1612572886
+123,Solnechnyy,RU,50.72,136.63,-9.8,83,99,3.76,1612572911
+124,Hilo,US,19.73,-155.09,78.8,57,75,11.5,1612572630
+125,Pangai,TO,-19.8,-174.35,84.2,84,75,5.75,1612573487
+126,Pasinler,TR,39.98,41.68,15.8,86,40,3.44,1612573487
+127,Tessalit,ML,20.2,1.01,71.31,19,100,14.29,1612573047
+128,Iguguno,TZ,-4.57,34.63,64.44,81,72,3.2,1612573487
+129,Sitrah,BH,26.15,50.62,68,77,0,12.66,1612572981
+130,Pestovo,RU,58.59,35.8,5.02,94,100,9.08,1612573488
+131,Tengzhou,CN,35.08,117.15,48.99,1,0,4,1612573488
+132,Bredasdorp,ZA,-34.53,20.04,60.8,94,0,1.14,1612573072
+133,Lagoa,PT,39.05,-27.98,58.33,86,98,16.8,1612573051
+134,Gizo,SB,-8.1,156.84,84.38,73,50,12.06,1612573489
+135,Chenzhou,CN,25.8,113.03,57.85,70,23,0.94,1612573489
+136,Baltar,PT,41.19,-8.37,48,92,100,1.99,1612573489
+137,Hermanus,ZA,-34.42,19.23,66.99,88,2,1.99,1612572848
+138,Katsuura,JP,35.13,140.3,52,49,20,3.44,1612572765
+139,Salinas,EC,36.68,-121.66,57.2,62,1,9.22,1612573277
+140,Naryan-Mar,RU,67.67,53.09,-13.88,89,1,10.07,1612572968
+141,Roura,GF,4.73,-52.33,78.8,89,75,9.22,1612573491
+142,Barawe,SO,,,,,,,
+143,New Norfolk,AU,-42.78,147.06,75,74,1,1.99,1612573294
+144,Batagay-Alyta,RU,67.8,130.41,-26.16,83,100,1.43,1612573113
+145,Darnah,LY,32.77,22.64,59.18,61,88,3.2,1612573491
+146,Megion,RU,61.03,76.11,17.6,93,75,8.95,1612573492
+147,Beloha,MG,-25.17,45.05,75.36,89,100,3.85,1612572803
+148,Payo,PH,-3.75,103.64,75.65,93,100,3.94,1612573492
+149,Grand River South East,MU,,,,,,,
+150,Rorvik,NO,64.86,11.24,24.37,92,17,7.14,1612573259
+151,Whitefish,US,48.41,-114.34,37.4,56,75,5.75,1612573382
+152,Los Llanos De Aridane,ES,28.66,-17.92,62.6,51,0,17.27,1612573493
+153,Mutsu,JP,41.29,141.22,32,86,40,1.14,1612572989
+154,Haibowan,CN,,,,,,,
+155,Salalah,OM,17.02,54.09,71.6,64,20,5.75,1612572994
+156,Lata,SB,40.16,-8.33,51.01,93,100,1.01,1612573072
+157,Mogadishu,SO,2.04,45.34,75.07,85,51,15.41,1612573138
+158,Ust-Maya,RU,60.42,134.53,-26.88,84,100,0.76,1612572927
+159,Taywarah,AF,33.35,64.42,28.06,63,0,1.3,1612573114
+160,Kathu,TH,7.92,98.33,78.8,78,20,12.66,1612573289
+161,Tuatapere,NZ,-46.13,167.68,68.67,63,21,6.53,1612573064
+162,Port Alfred,ZA,-33.59,26.89,69.01,93,100,14.92,1612573033
+163,Noumea,NC,-22.28,166.46,86,70,90,8.05,1612573494
+164,Manggar,ID,-2.88,108.27,81.86,77,77,14,1612573067
+165,Fairbanks,US,64.84,-147.72,-7.6,71,75,2.91,1612572919
+166,Tiksi,RU,71.69,128.87,-22.76,87,100,6.62,1612572949
+167,Kamenskoye,RU,,,,,,,
+168,Boa Vista,BR,2.82,-60.67,80.6,69,0,11.5,1612572947
+169,Bontang,ID,0.13,117.5,80.17,79,97,2.13,1612573497
+170,Iqaluit,CA,63.75,-68.51,23,86,75,24.16,1612573121
+171,Mahebourg,MU,-20.41,57.7,77,88,75,6.91,1612572911
+172,Muros,ES,42.78,-9.06,51.01,75,99,5.99,1612573498
+173,Cidreira,BR,-30.18,-50.21,67.32,73,0,14.18,1612573498
+174,Ust-Kut,RU,56.79,105.77,2.62,91,100,3.94,1612573498
+175,Lompoc,US,34.64,-120.46,64.4,52,1,11.5,1612573070
+176,Villa De Cura,VE,10.04,-67.49,71.89,73,100,3.09,1612573499
+177,Saint-Francois,GP,46.42,3.91,46,100,90,3.44,1612572955
+178,Codrington,AG,-38.27,141.97,65.3,64,0,16.62,1612573061
+179,Ituni,GY,,,,,,,
+180,San Quintin,MX,30.48,-115.95,59.5,75,0,13.09,1612573036
+181,Tabarqah,TN,,,,,,,
+182,Caravelas,BR,-17.71,-39.25,80.24,79,100,14.29,1612572938
+183,Bambous Virieux,MU,-20.34,57.76,77,88,75,6.91,1612573071
+184,Balabac,PH,7.99,117.06,81.36,78,100,9.17,1612573135
+185,Kruisfontein,ZA,-34.0,24.73,71.01,88,15,4,1612573501
+186,Kushima,JP,31.46,131.23,48.2,93,75,8.05,1612573501
+187,Kahului,US,20.89,-156.47,75.2,57,40,10.36,1612572677
+188,Bengkulu,ID,-3.8,102.27,78.51,78,100,4.79,1612572912
+189,Lakatoro,VU,-16.1,167.42,84.27,66,45,3.53,1612573503
+190,Monterey,US,36.25,-121.25,60.8,44,1,11.5,1612572930
+191,Salme,EE,28.04,85.09,44.6,87,40,7.11,1612573504
+192,Komsomolskiy,RU,40.43,71.72,37.4,48,100,4.61,1612573041
+193,Zabol,IR,32.25,67.25,33.28,80,0,3.44,1612573286
+194,Laela,TZ,-8.57,32.05,60.31,93,54,3,1612573417
+195,Havre-Saint-Pierre,CA,50.23,-63.6,32,86,90,11.5,1612573108
+196,Juegang,CN,32.32,121.19,46.99,89,0,10.16,1612573505
+197,Makakilo City,US,21.35,-158.09,77,50,1,17.27,1612573148
+198,Estacion Coahuila,MX,32.19,-115.0,73,14,1,3.44,1612573505
+199,Rancho Palos Verdes,US,33.74,-118.39,62.01,59,1,6.91,1612573506
+200,Port Elizabeth,ZA,-33.92,25.57,71.6,88,90,6.91,1612573025
+201,Poum,NC,-20.23,164.02,79.93,72,21,6.2,1612573506
+202,Gladstone,AU,-23.85,151.25,84.2,54,40,8.05,1612573506
+203,Isangel,VU,-19.55,169.27,86,70,20,3.44,1612573507
+204,Murashi,RU,59.4,48.96,8.24,95,100,10.18,1612573507
+205,Erdenet,MN,49.03,104.08,-3.95,91,4,3.31,1612573507
+206,Camopi,GF,3.17,-52.32,72.86,98,100,3.15,1612573507
+207,Moron,MN,-34.65,-58.62,73,73,0,1.99,1612572742
+208,Bilma,NE,18.69,12.92,61.7,30,0,7.76,1612573119
+209,Beringovskiy,RU,63.05,179.32,-5.06,88,100,7.27,1612573120
+210,Nabire,ID,-3.37,135.48,86.25,57,80,2.64,1612573085
+211,Kutum,SD,14.2,24.67,46.94,51,99,9.71,1612573003
+212,Oranjestad,AW,12.52,-70.03,80.6,78,20,16.11,1612573346
+213,Sibolga,ID,1.74,98.78,77.52,79,11,3.78,1612572921
+214,Pevek,RU,69.7,170.31,-14.49,85,100,1.63,1612572702
+215,Korla,CN,41.76,86.15,24.94,83,86,2.01,1612573051
+216,Hasaki,JP,35.73,140.83,50,61,20,3.44,1612573044
+217,Isernia,IT,41.6,14.24,55,100,20,4.25,1612573510
+218,Jamestown,SH,42.1,-79.24,23,68,90,19.57,1612573023
+219,Puerto Del Rosario,ES,28.5,-13.86,55.4,76,0,10.36,1612572917
+220,Nantucket,US,41.28,-70.1,42.01,100,90,8.05,1612572924
+221,Berlevag,NO,70.86,29.09,26.78,93,100,21.16,1612573088
+222,Roald,NO,62.58,6.13,26.6,63,20,6.91,1612573284
+223,Ancud,CL,-41.87,-73.82,75.2,46,0,10.36,1612573068
+224,Mahibadhoo,MV,3.78,72.97,81.01,73,72,8.41,1612573103
+225,Siocon,PH,7.71,122.14,82,75,100,6.04,1612573512
+226,Mayor Pablo Lagerenza,PY,-19.93,-60.77,75.72,44,12,5.26,1612573512
+227,Broome,AU,42.25,-75.83,30.2,59,90,14.97,1612573512
+228,Tsihombe,MG,,,,,,,
+229,Piacabucu,BR,-10.41,-36.43,78.98,80,0,15.35,1612573194
+230,Brae,GB,60.4,-1.35,33.8,64,90,23.02,1612573148
+231,Colares,PT,38.8,-9.45,55,93,100,10,1612573145
+232,Magelang,ID,-7.47,110.22,75.2,94,90,8.05,1612573513
+233,Virginia Beach,US,36.85,-75.98,46.99,90,100,1.01,1612573255
+234,Aklavik,CA,68.22,-135.01,-32.8,68,20,4.61,1612572973
+235,Provideniya,RU,64.38,-173.3,8.92,92,100,11.1,1612573514
+236,Barcelos,BR,41.54,-8.62,50,87,75,11.5,1612573514
+237,Bang Mun Nak,TH,16.03,100.38,77,49,39,7.63,1612573515
+238,Bilibino,RU,68.05,166.44,-8.21,76,80,4.07,1612573083
+239,Nouadhibou,MR,20.93,-17.03,62.6,77,40,6.91,1612573069
+240,Santa Luzia,BR,-19.77,-43.85,69.8,94,90,4.61,1612573515
+241,Teknaf,BD,20.86,92.31,59.23,65,3,4.68,1612573516
+242,Darhan,MN,49.49,105.92,-0.81,85,0,3.76,1612573516
+243,Norman Wells,CA,65.28,-126.83,-29.2,68,20,4.61,1612573516
+244,Flinders,AU,-34.58,150.86,70,92,100,14,1612573050
+245,Rong Kwang,TH,18.34,100.32,72,94,0,1.72,1612573517
+246,Toora-Khem,RU,52.47,96.11,-0.24,90,99,1.39,1612573517
+247,Kununurra,AU,-15.77,128.73,84.2,89,40,5.75,1612573000
+248,Uwayl,SD,,,,,,,
+249,Birao,CF,10.28,22.79,69.15,23,51,13.62,1612573096
+250,Yerbogachen,RU,61.28,108.01,-7.78,91,100,3.33,1612573091
+251,Sakakah,SA,29.97,40.21,53.6,76,0,8.05,1612572986
+252,Shubarshi,KZ,48.59,57.19,33.24,94,100,9.57,1612573518
+253,Husavik,IS,66.04,-17.34,32,64,20,4.61,1612573179
+254,East London,ZA,-33.02,27.91,73.63,89,97,10.13,1612572808
+255,Novo Cruzeiro,BR,-17.47,-41.88,67.39,94,100,3.96,1612573519
+256,Ugoofaaru,MV,5.67,73,81.55,73,100,8.1,1612573147
+257,Klaksvik,FO,62.23,-6.59,32,100,40,10.36,1612573063
+258,Hirara,JP,24.8,125.28,69.8,68,20,2.3,1612573059
+259,Saurimo,AO,-9.66,20.39,65.77,92,100,2.57,1612573520
+260,Ottawa,CA,45.41,-75.7,26.6,63,20,19.57,1612573416
+261,San Carlos De Bariloche,AR,-41.15,-71.31,82.4,16,0,3.44,1612572749
+262,Vaitupu,WF,,,,,,,
+263,Multan,PK,30.2,71.48,53.6,87,0,3.58,1612573234
+264,Leshukonskoye,RU,64.9,45.76,-9.44,88,96,11.1,1612573521
+265,Mehamn,NO,71.04,27.85,26.53,91,100,19.71,1612572926
+266,Souillac,MU,-20.52,57.52,77,88,75,6.91,1612573040
+267,Salina Cruz,MX,16.17,-95.2,76.21,84,25,9.89,1612573522
+268,Avera,PF,33.19,-82.53,50,46,1,5.75,1612572724
+269,Rudbar,AF,30.15,62.6,52.34,34,0,7.05,1612572927
+270,Boyolangu,ID,-8.12,111.89,79.12,81,94,7.7,1612573522
+271,Oussouye,SN,12.48,-16.55,73.4,78,0,9.22,1612572852
+272,Acarau,BR,-2.89,-40.12,77.94,83,5,12.68,1612573523
+273,Kieta,PG,-6.22,155.63,87.26,60,0,8.41,1612573523
+274,Sirsi,IN,14.62,74.85,62.44,69,0,3,1612573523
+275,Khatanga,RU,71.97,102.5,-34.22,78,4,7.09,1612573095
+276,Tungor,RU,53.38,142.96,-4.63,90,100,18.9,1612573524
+277,Sao Joao Da Barra,BR,-21.64,-41.05,76.12,93,100,7.92,1612572775
+278,Kysyl-Syr,RU,63.9,122.76,-42.2,79,5,3.91,1612572970
+279,Pochutla,MX,15.74,-96.47,78.8,73,75,11.5,1612573177
+280,Mount Isa,AU,-20.73,139.5,86,51,73,9.22,1612573185
+281,Taltal,CL,-25.4,-70.48,63.52,79,30,1.57,1612572960
+282,Oranjemund,NA,-28.55,16.43,61.56,91,4,10.02,1612573185
+283,Castro,CL,-24.79,-50.01,59.86,56,0,2.51,1612573525
+284,Mathbaria,BD,22.29,89.96,59.14,62,0,4.88,1612573526
+285,Langsa,ID,4.47,97.97,77.22,83,25,1.03,1612573526
+286,Nanortalik,GL,60.14,-45.24,20.21,73,0,3.69,1612572753
+287,Barquisimeto,VE,10.07,-69.32,70.36,86,100,5.19,1612573511
+288,Srednekolymsk,RU,67.45,153.68,-21.3,84,0,0.34,1612572981
+289,Tuggurt,DZ,,,,,,,
+290,Port Augusta,AU,-32.5,137.77,71.6,56,90,16.11,1612572969
+291,Impruneta,IT,43.69,11.25,51.01,100,20,1.14,1612573527
+292,Lar Gerd,AF,,,,,,,
+293,Vila Franca Do Campo,PT,37.72,-25.43,57.99,94,75,9.22,1612573528
+294,Dwarka,IN,22.24,68.97,67.55,50,0,13.85,1612573528
+295,Tambopata,PE,-12.73,-69.18,74.66,90,0,1.3,1612573528
+296,Port Blair,IN,11.67,92.75,79.11,74,0,8.19,1612572940
+297,Devyatka,RU,,,,,,,
+298,Albertville,FR,34.27,-86.21,41,48,1,0.67,1612573529
+299,Nchelenge,ZM,-9.35,28.73,70.83,84,100,2.28,1612573529
+300,Shahpur,IN,16.7,76.83,61.27,70,0,5.46,1612573530
+301,Varhaug,NO,58.61,5.65,19,92,0,4.61,1612573505
+302,Maloy,NO,61.94,5.11,27,54,0,3.44,1612573530
+303,College,US,64.86,-147.8,-7.6,71,75,2.95,1612573082
+304,Abu Zabad,SD,12.35,29.25,58.35,35,0,17.85,1612573317
+305,Chachapoyas,PE,-6.23,-77.87,56.05,90,96,2.62,1612573531
+306,Revelstoke,CA,50.98,-118.2,41,56,20,9.22,1612573250
+307,Dekar,BW,-21.53,21.93,68.32,94,100,10.96,1612573531
+308,Kallifitos,GR,41.17,24.22,48.99,100,90,3.6,1612573531
+309,Sahrak,AF,,,,,,,
+310,Juigalpa,NI,12.11,-85.36,76.06,79,100,7.11,1612573290
+311,Shanhetun,CN,44.7,127.2,10.9,95,100,3.67,1612573532
+312,San Jeronimo,MX,-11.95,-75.28,51.33,72,98,4.03,1612572743
+313,Bakchar,RU,57.02,82.07,9,96,90,5.75,1612573180
+314,Guaymas,MX,27.93,-110.9,73.4,43,1,8.05,1612573533
+315,Wynyard,CA,-41,145.72,61,85,0,5.01,1612573533
+316,Cuenca,ES,-2.88,-78.98,57.13,78,99,3.31,1612573533
+317,Nadym,RU,65.53,72.52,-9.44,91,100,13.44,1612573534
+318,Lavrentiya,RU,65.58,-171,3.65,93,100,13.38,1612573081
+319,Lloret De Mar,ES,41.7,2.85,55,93,20,6.91,1612573534
+320,Gazanjyk,TM,39.24,55.52,53.15,68,100,12.82,1612572964
+321,Natchez,US,31.56,-91.4,46.4,76,90,3.44,1612573535
+322,Victoria,SC,22.29,114.16,66,82,0,5.59,1612572912
+323,Wana,PK,32.3,69.57,41.45,59,0,3.56,1612573535
+324,Adre,TD,13.47,22.2,58.24,32,0,23,1612573052
+325,Trat,TH,12.5,102.5,81,54,76,3.76,1612573147
+326,Hay River,CA,60.82,-115.8,-23.8,69,100,4.61,1612573144
+327,Mangrul Pir,IN,20.32,77.35,58.6,57,6,5.7,1612573536
+328,Naze,JP,28.37,129.48,69.8,64,20,16.11,1612573115
+329,Port Hardy,CA,50.7,-127.42,44.6,76,75,9.22,1612572997
+330,Raudeberg,NO,61.99,5.14,27,50,0,7.31,1612572938
+331,Maraa,BR,-1.83,-65.37,75.7,95,100,0.4,1612573537
+332,Half Moon Bay,US,37.46,-122.43,61,82,1,12.66,1612572980
+333,Olafsvik,IS,64.89,-23.71,37.22,78,99,22.26,1612573538
+334,Kavaratti,IN,10.57,72.64,80.87,75,68,14.76,1612572983
+335,Saint-Augustin,CA,51.23,-58.65,29.19,96,87,10.47,1612573091
+336,Vao,NC,-22.67,167.48,78.6,83,0,9.37,1612573108
+337,Vylgort,RU,,,,,,,
+338,Yar-Sale,RU,66.83,70.83,-17.54,88,100,10.33,1612572978
+339,Rawannawi,KI,,,,,,,
+340,Waingapu,ID,-9.66,120.26,82.69,73,100,12.82,1612573539
+341,Mys Shmidta,RU,,,,,,,
+342,Concepcion Del Oro,MX,24.63,-101.42,59.72,31,0,7.87,1612573540
+343,Bahar,IR,34.91,48.44,39.63,78,93,9.31,1612573540
+344,Sokoto,NG,13.06,5.24,70.3,21,0,11.83,1612573540
+345,Yarmouth,CA,41.71,-70.23,44.6,81,90,5.75,1612573541
+346,Huambo,AO,-12.78,15.74,62.42,83,100,1.92,1612572951
+347,Ruian,CN,,,,,,,
+348,Fare,PF,-16.7,-151.02,81.16,67,9,5.28,1612573536
+349,Kloulklubed,PW,7.04,134.26,77,94,90,14.16,1612572820
+350,Kijabe,KE,-0.93,36.58,64.4,72,0,5.75,1612573542
+351,Kamenka,RU,51.32,42.77,15.01,85,100,15.01,1612572816
+352,Itarema,BR,-2.92,-39.92,78.01,83,28,11.63,1612573542
+353,Quatre Cocos,MU,-20.21,57.76,77,88,75,6.91,1612573144
+354,Coahuayana,MX,18.73,-103.68,73.4,78,40,6.91,1612573122
+355,Esperance,AU,-33.87,121.9,62.6,88,90,10.36,1612572693
+356,Rodrigues Alves,BR,-7.74,-72.65,71.58,98,100,0.96,1612573543
+357,Nazas,MX,25.23,-104.13,67.6,24,0,5.48,1612573544
+358,Namatanai,PG,-3.67,152.43,82.83,70,96,4.79,1612573544
+359,Bongandanga,CD,1.5,21.05,72.99,88,98,2.13,1612573544
+360,Angoche,MZ,-16.23,39.91,79.52,84,100,2.91,1612573544
+361,Puerto Quijarro,BO,-17.78,-57.77,76.01,62,28,3.02,1612573545
+362,Artyk,RU,,,,,,,
+363,Faanui,PF,-16.48,-151.75,81.64,64,3,4.07,1612573109
+364,Port Keats,AU,-14.25,129.55,83.46,77,97,8.59,1612573188
+365,Hami,CN,42.8,93.45,27.3,85,0,5.01,1612572984
+366,Sijunjung,ID,-0.69,100.95,74.34,86,30,1.25,1612573546
+367,Severo-Kurilsk,RU,50.68,156.12,16.38,81,71,6.38,1612573051
+368,Upernavik,GL,72.79,-56.15,4.53,71,100,6.06,1612573040
+369,Sola,VU,-13.88,167.55,81.52,79,34,11.95,1612573048
+370,Changji,CN,44.02,87.32,10.4,85,57,2.24,1612573547
+371,Belyy Yar,RU,53.6,91.39,3.2,85,100,2.24,1612573547
+372,San Cristobal,EC,7.77,-72.22,67.73,85,100,0.98,1612572736
+373,Warqla,DZ,,,,,,,
+374,Natalio,PY,-26.72,-55.08,63.57,75,0,3,1612573139
+375,Wamba,CD,8.93,8.6,74.39,23,0,3,1612573144
+376,Kalabo,ZM,-14.97,22.68,67.69,91,97,2.42,1612572956
+377,Markova,RU,48.68,24.41,28.78,96,100,3.58,1612573548
+378,Yenagoa,NG,4.92,6.26,79.3,86,0,4.41,1612573132
+379,Walvis Bay,NA,-22.96,14.51,64,94,5,5.75,1612573549
+380,Jakar,BT,27.55,90.75,28.31,83,0,3.65,1612573549
+381,Cherskiy,RU,68.75,161.3,-14.53,77,30,0.98,1612573549
+382,Tatawin,TN,32.93,10.45,60.8,27,0,2.3,1612572977
+383,Marsa Matruh,EG,31.35,27.25,59,82,75,6.91,1612572849
+384,Mon,IN,26.75,95.1,57.67,58,64,2.44,1612573550
+385,Alotau,PG,,,,,,,
+386,Acari,PE,-15.43,-74.62,71.56,71,100,4.52,1612572984
+387,Varzea Paulista,BR,-23.21,-46.83,71.6,88,75,6.91,1612573551
+388,Zambezi,ZM,-13.54,23.1,65.53,95,100,2.73,1612573551
+389,Nata,BW,8.33,-80.52,80.6,74,20,9.22,1612573551
+390,Salta,AR,-24.79,-65.41,73.4,56,75,9.22,1612572900
+391,Shache,CN,38.42,77.24,24.51,89,2,0.36,1612572975
+392,Grand Gaube,MU,-20.01,57.66,75.99,84,27,5.99,1612573552
+393,San Andres,CO,12.58,-81.7,80.6,83,20,6.91,1612573552
+394,Muzquiz,MX,,,,,,,
+395,Belize,BZ,17.25,-88.75,73.99,65,17,3.38,1612573553
+396,Sangar,RU,63.92,127.47,-41.37,80,100,0.27,1612573553
+397,Kenora,CA,49.82,-94.43,-2,71,90,16.11,1612573553
+398,Loviisa,FI,60.46,26.23,-0.4,85,40,6.91,1612573553
+399,Labuan,MY,5.28,115.24,80.6,89,20,5.75,1612573554
+400,Coihaique,CL,-45.58,-72.07,73.4,46,0,2.3,1612572881
+401,Chifeng,CN,42.27,118.96,18.79,92,0,5.14,1612573554
+402,Maralal,KE,1.1,36.7,57.49,74,0,3.31,1612573502
+403,Banda Aceh,ID,5.56,95.32,79.18,81,47,11.16,1612573109
+404,Skiros,GR,,,,,,,
+405,Havoysund,NO,71.0,24.66,28.4,80,75,12.66,1612573310
+406,Pingliang,CN,35.54,106.69,36.07,58,17,1.1,1612573555
+407,Matagami,CA,49.75,-77.63,28.4,93,90,16.11,1612573035
+408,Leningradskiy,RU,69.38,178.42,-9.06,87,100,8.14,1612573556
+409,Zadar,HR,44.12,15.24,51.8,87,75,4.61,1612573359
+410,Synya,RU,65.37,58.04,-11.83,89,100,9.69,1612573556
+411,Goderich,CA,43.75,-81.72,21.2,63,100,28.77,1612573383
+412,Menongue,AO,-14.66,17.69,65.7,85,95,3.38,1612573557
+413,Dingle,IE,11.0,122.67,80.94,80,81,12.19,1612573029
+414,Vynohradivka,UA,45.68,28.57,41,93,75,3.44,1612573557
+415,Chingola,ZM,-12.53,27.88,62.24,97,100,1.7,1612573558
+416,Edd,ER,13.93,41.69,75.34,79,22,14.56,1612573267
+417,Formoso Do Araguaia,BR,,,,,,,
+418,Coos Bay,US,43.37,-124.22,53.01,93,75,9.22,1612573558
+419,Fortuna,US,40.6,-124.16,51.01,93,90,10.36,1612573122
+420,Alofi,NU,-19.06,-169.92,78.8,89,100,13.8,1612573559
+421,Tual,ID,-5.67,132.75,83.57,77,100,20.45,1612573035
+422,Bayanday,RU,53.07,105.51,-8.73,90,91,2.59,1612573559
+423,Auki,SB,-8.77,160.7,85.66,64,83,10,1612573559
+424,Zhanatas,KZ,,,,,,,
+425,Bandarbeyla,SO,9.49,50.81,73.26,71,0,8.19,1612573163
+426,Rincon De La Victoria,ES,36.72,-4.28,59,72,90,3.44,1612573560
+427,Senneterre,CA,48.38,-77.23,26.6,86,90,16.11,1612573560
+428,Lagoa Santa,BR,-19.63,-43.89,69.8,94,90,4.61,1612573561
+429,Fukue,JP,32.69,128.84,50,100,40,1.14,1612573561
+430,Belaya Gora,RU,68.53,146.42,-15.88,89,100,4.79,1612573077
+431,Kita,ML,13.03,-9.49,74.91,18,100,1.32,1612573562
+432,Nuevo Progreso,MX,23.17,-97.95,73,61,31,12.33,1612573194
+433,Jega,NG,12.22,4.38,75.18,19,56,13.13,1612573562
+434,Touros,BR,-5.2,-35.46,77,83,20,4.61,1612572709
+435,Dunmore Town,BS,25.5,-76.65,74.12,79,0,13.98,1612573563
+436,General Pico,AR,-35.66,-63.76,76.57,30,0,12.64,1612573563
+437,Paso De Los Toros,UY,-32.82,-56.52,63.16,72,0,7.83,1612573268
+438,Bridgetown,BB,13.1,-59.62,78.8,61,20,21.85,1612573502
+439,Pinega,RU,64.7,43.39,-3.57,89,100,13.2,1612573563
+440,Plettenberg Bay,ZA,-34.05,23.37,67.46,90,0,5.14,1612573302
+441,Longido,TZ,-2.73,36.68,65.98,71,58,5.82,1612573564
+442,Deputatskiy,RU,69.3,139.9,-23.33,88,100,1.19,1612573457
+443,Saint-Georges,GF,12.06,-61.75,78.8,73,20,13.8,1612573564
+444,Ostrovnoy,RU,68.05,39.51,15.35,92,100,10.29,1612573565
+445,Namtsy,RU,62.72,129.67,-43.6,60,100,2.24,1612573565
+446,San Jose,BO,37.34,-121.89,66.2,34,1,9.22,1612573543
+447,Huron,US,41.15,-82.55,23,88,100,1.99,1612573565
+448,Ryazhsk,RU,53.7,40.11,10,74,98,11.23,1612573443
+449,Cayenne,GF,4.93,-52.33,78.8,89,75,9.22,1612573566
+450,Grindavik,IS,63.84,-22.43,35.6,75,40,17.27,1612573528
+451,Saint-Denis,RE,48.92,2.33,48.99,93,75,3.44,1612573566
+452,Celestun,MX,20.87,-90.4,74.34,78,0,8.1,1612573567
+453,Tukrah,LY,32.53,20.58,57.63,67,92,6.33,1612573567
+454,Kamskiye Polyany,RU,55.43,51.42,24.8,100,90,15.66,1612573567
+455,Hobyo,SO,5.35,48.53,75.54,74,27,15.03,1612573567
+456,Zachagansk,KZ,,,,,,,
+457,Mutsamudu,KM,,,,,,,
+458,The Valley,AI,18.22,-63.06,78.8,65,20,9.22,1612573568
+459,Zelenoborsk,RU,61.47,64.03,19.96,98,100,6.11,1612573568
+460,Meadow Lake,CA,34.8,-106.54,53.01,20,20,5.75,1612573569
+461,Bereda,SO,43.27,-7.54,46,100,100,13,1612573069
+462,Semnan,IR,35.57,53.4,49.46,55,100,0.85,1612573569
+463,Magadan,RU,59.57,150.8,-1.19,84,92,15.21,1612573569
+464,Hofn,IS,64.25,-15.21,37.42,78,100,16.26,1612573389
+465,Meulaboh,ID,4.14,96.13,77.2,86,34,3.8,1612573570
+466,Yaan,CN,7.38,8.57,76.77,19,58,4.32,1612573108
+467,Tabiauea,KI,,,,,,,
+468,Lagos,PT,6.58,3.75,80.02,85,0,5.3,1612573421
+469,Tasbuget,KZ,,,,,,,
+470,Tenenkou,ML,14.46,-4.92,76.73,18,100,5.39,1612573571
+471,Kenai,US,60.55,-151.26,16,79,90,6.91,1612573571
+472,Chemax,MX,20.65,-87.93,71.67,87,0,4.09,1612573572
+473,Tomatlan,MX,19.93,-105.25,72.28,87,17,3.89,1612573572
+474,Kaitangata,NZ,-46.28,169.85,62.01,71,91,8.01,1612573061
+475,Okha,RU,53.57,142.95,-4.86,90,100,19.13,1612573572
+476,Wanning,CN,18.8,110.4,70.16,83,50,5.19,1612573573
+477,Sioux Lookout,CA,50.1,-91.92,-2.2,71,90,18.41,1612573077
+478,Acapulco,MX,16.86,-99.89,84.2,61,40,4.61,1612573002
+479,Le Mars,US,42.79,-96.17,12,79,1,5.41,1612573573
+480,Asyut,EG,27.18,31.18,51.8,76,0,10.36,1612573573
+481,Rio Pomba,BR,-21.27,-43.18,69.01,95,100,1.01,1612573574
+482,Kidal,ML,18.44,1.41,70.32,20,100,11.34,1612573000
+483,Lima,PE,-12.04,-77.03,75.99,78,0,10.36,1612573322
+484,Lazaro Cardenas,MX,17.96,-102.2,75.65,75,0,3.44,1612573574
+485,Sur,OM,22.57,59.53,63.28,61,0,6.38,1612573575
+486,Atasu,KZ,48.68,71.64,20.44,95,47,6.31,1612573575
+487,Faya,TD,18.39,42.45,53.6,50,0,10.36,1612573178
+488,Paldiski,EE,59.36,24.05,12,79,75,9.22,1612573575
+489,Salmo,CA,49.2,-117.27,41,48,87,6.91,1612573576
+490,Pemba,MZ,-12.97,40.52,80.6,83,20,4.61,1612573576
+491,Lusambo,CD,-4.97,23.45,70.81,91,100,2.59,1612573576
+492,Roebourne,AU,-20.78,117.13,82.87,67,39,12.77,1612573068
+493,Mazatlan,MX,23.22,-106.42,69.8,73,1,9.22,1612573577
+494,Abnub,EG,27.27,31.15,51.8,76,0,10.36,1612573577
+495,Qatana,SY,33.44,36.08,46,81,0,2.46,1612573577
+496,La Paz Centro,NI,12.34,-86.68,84.2,61,20,6.91,1612573578
+497,Kholm,RU,59.27,32.85,5.16,93,93,8.12,1612573578
+498,Basoko,CD,1.24,23.62,70.59,82,100,1.41,1612573578
+499,Puerto Ayacucho,VE,5.66,-67.62,81.12,63,85,3.11,1612573148
+500,Pedro Ii,BR,-4.42,-41.46,71.11,67,48,3.53,1612573506
+501,Swan Hill,AU,-35.34,143.55,72.32,39,0,15.26,1612573579
+502,Baglung,NP,28.27,83.59,41.04,63,0,7.31,1612573579
+503,Karaul,RU,,,,,,,
+504,Cockburn Harbour,TC,,,,,,,
+505,Muisne,EC,0.6,-80.03,77.72,89,86,6.04,1612573580
+506,Mitu,CO,1.2,-70.17,73.87,96,100,0.92,1612573134
+507,Derzhavinsk,KZ,51.1,66.32,28.2,97,100,9.84,1612573580
+508,Khandagayty,RU,50.73,92.05,3.25,90,100,0.89,1612573581
+509,Saint-Pierre,PM,-21.34,55.48,78.8,65,0,6.91,1612573170
+510,Pandan,PH,14.05,124.17,80.53,82,86,8.68,1612573155
+511,Halifax,CA,44.65,-63.57,37.4,87,100,5.75,1612573082
+512,Kaeo,NZ,-35.1,173.78,69.75,68,100,6.53,1612573062
+513,Camacha,PT,33.08,-16.33,57.2,67,40,17.27,1612573532
+514,Limbe,HT,4.02,9.21,80.6,100,40,5.46,1612573582
+515,Ust-Kuyga,RU,70.02,135.6,-35.32,80,90,3.31,1612573402
+516,Meyungs,PW,,,,,,,
+517,Tsogni,GA,-2.79,10.1,77.77,88,99,4.18,1612573583
+518,Tubruq,LY,,,,,,,
+519,Mbandaka,CD,0.05,18.26,75.9,76,100,2.95,1612573583
+520,Sabang,ID,5.89,95.32,81.3,77,3,16.89,1612572989
+521,Tura,RU,25.52,90.22,58.77,51,0,2.35,1612573039
+522,Alihe,CN,50.57,123.72,-7.94,82,18,3.49,1612573584
+523,Nganjuk,ID,-7.61,111.9,78.44,85,100,7.4,1612573584
+524,Xining,CN,36.62,101.77,21.6,57,99,2.08,1612573115
+525,Juneau,US,58.3,-134.42,30,100,100,4.34,1612573361
+526,Mayo,CA,38.89,-76.51,44.6,36,1,9.22,1612573585
+527,Yabelo,ET,4.88,38.08,56.25,56,0,5.55,1612573579
+528,Point Fortin,TT,10.18,-61.68,75,1,99,4,1612573585
+529,Tambo,PE,-14.8,-73.92,41.16,100,100,5.75,1612573586
+530,Erzin,RU,36.96,36.2,51.01,82,0,2.26,1612573586
+531,Chuncheng,CN,22.17,111.79,68.13,64,0,0.49,1612573586
+532,Namibe,AO,-15.2,12.15,70.65,80,86,6.55,1612573586
+533,Sudogda,RU,55.95,40.86,-1.77,91,94,8.61,1612573587
+534,Horizontina,BR,-27.63,-54.31,62.01,81,9,4.38,1612573587
+535,Teguldet,RU,57.31,88.17,6.94,94,100,5.39,1612573166
+536,Motupe,PE,-6.15,-79.71,78.66,53,99,6.11,1612573587
+537,Morehead,PG,37.27,-87.18,35.01,69,1,6.31,1612573129
+538,Inderborskiy,KZ,,,,,,,
+539,Biak,ID,-0.91,122.88,80.01,72,100,2.57,1612573372
+540,Bocaiuva,BR,-17.11,-43.81,80.6,57,40,5.75,1612573588
+541,Uglekamensk,RU,43.22,133.23,25.66,91,31,3.76,1612573588
+542,Athens,US,37.98,23.72,57.99,93,20,3.44,1612573374
+543,Teya,RU,60.38,92.63,-2.45,89,100,4.36,1612573589
+544,Sawang Daen Din,TH,17.48,103.46,66.99,73,0,8.79,1612573589
+545,Bargal,SO,,,,,,,
+546,Udachnyy,RU,66.42,112.4,-37.71,79,5,1.83,1612573590
+547,Kiunga,PG,-6.12,141.29,88.05,57,100,5.17,1612573590
+548,Sorland,NO,67.67,12.69,34.81,84,100,24.87,1612573326
+549,Yinchuan,CN,38.47,106.27,33.48,68,0,3.69,1612573124
+550,Roma,AU,43.21,-75.46,30.99,80,90,9.22,1612573591
+551,Santander,ES,43.46,-3.8,53.6,100,90,13.8,1612573591
+552,Anloga,GH,5.79,0.9,84.2,84,40,10.36,1612573086
+553,Yuzhne,UA,46.62,31.1,32,100,90,3.96,1612573591
+554,Margate,ZA,51.38,1.39,45,92,0,1.01,1612573592
+555,Mombetsu,JP,44.35,143.35,23,93,75,4.61,1612573592
+556,Baruun-Urt,MN,46.68,113.28,-1.61,86,0,4.65,1612573592
+557,Fomboni,KM,-12.28,43.74,82.83,71,100,2.59,1612573592
+558,Padang,ID,-0.95,100.35,77,88,20,2.3,1612573161
+559,Oro Valley,US,32.39,-110.97,62.01,23,0,3,1612573593
+560,Petropavlovsk-Kamchatskiy,RU,53.05,158.65,5,61,75,11.18,1612573593
+561,Axim,GH,4.87,-2.24,79.56,87,40,9.62,1612573165
+562,Kazalinsk,KZ,,,,,,,
+563,Oyama,JP,36.3,139.8,53.01,65,20,2.3,1612573436
+564,Cabedelo,BR,-6.98,-34.83,78.8,83,20,4.61,1612573100
+565,Natal,BR,-5.79,-35.21,78.8,78,20,5.75,1612573594
+566,Lahij,YE,13.17,44.58,64.06,80,17,3.44,1612573595
+567,Meridian,US,43.61,-116.39,48.2,49,1,6.91,1612573594
+568,Tucuma,BR,-0.18,-50.05,78.01,88,100,6.58,1612573595
+569,Samusu,WS,,,,,,,
+570,Qasigiannguit,GL,68.82,-51.19,10.4,31,100,12.66,1612573160
+571,Miramar,MX,25.99,-80.23,71.6,83,1,6.91,1612573596
+572,Pitimbu,BR,-7.47,-34.81,78.8,83,20,4.61,1612573596
+573,Laramie,US,41.31,-105.59,24.01,68,40,12.66,1612573517
+574,Suntar,RU,62.14,117.63,-37.86,81,21,2.98,1612573596
+575,Palmer,US,42.16,-72.33,32,93,32,6.13,1612573597
+576,Saint George,BM,37.1,-113.58,55.99,24,1,16.11,1612573597
+577,Umzimvubu,ZA,,,,,,,
+578,Mlonggo,ID,-6.53,110.7,75.2,94,90,8.05,1612573597
+579,Vaitape,PF,-16.52,-151.75,81.72,64,0,4.09,1612573598
+580,Aborlan,PH,9.44,118.55,80.6,83,75,6.91,1612573598
